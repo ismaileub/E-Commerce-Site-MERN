@@ -1,0 +1,1127 @@
+[
+  {
+    "title": "ThundeRobot Thor ZPF25F240 24.5\" 280Hz FHD Fast IPS Gaming Monitor",
+    "brand": "Thunderobot",
+    "img": "https://i.ibb.co/Rp436WCp/monitor1.jpg",
+    "display_features": {
+      "display_size": "24.5 inches",
+      "display_type": "LED",
+      "panel_type": "Fast IPS",
+      "resolution": "Full HD (1920\u00d71080)",
+      "display_surface": "Anti-glare",
+      "aspect_ratio": "16:9",
+      "viewing_angle": "178\u00b0 H / 178\u00b0 V",
+      "brightness": "400 cd/m2",
+      "contrast_ratio": "1000:1",
+      "refresh_rate": "Native 240Hz, 280Hz OC",
+      "response_time": "1ms",
+      "curvature": "Flat"
+    },
+    "video_features": {
+      "low_blue_light": "Yes",
+      "g_sync_support": "Yes",
+      "free_sync_support": "Yes"
+    },
+    "audio_features": {
+      "speaker": "N/A"
+    },
+    "connectivity": {
+      "display_port": "1x DisplayPort 1.2 (280Hz OC)",
+      "hdmi": "1x HDMI 2.0 (240Hz)",
+      "audio_jack": "Yes"
+    },
+    "mechanical_design": {
+      "tilt": "Front 5\u00b0\u00b12\u00b0 ~ Rear 20\u00b0\u00b12\u00b0",
+      "vesa_wall_mount": "VESA 100mm*100mm or Stand"
+    },
+    "physical_specification": {
+      "color": "Black",
+      "dimension": "557mm(W) *192mm(D) *400mm(H)",
+      "weight": "3.9 kg"
+    },
+    "warranty_information": {
+      "warranty": "3 years"
+    },
+    "description": "The ThundeRobot Thor ZPF25F240 is a high-performance 24.5-inch gaming monitor with outstanding specs that will improve your gaming experience..."
+  },
+  {
+    "title": "ASUS ROG Swift PG259QN 24.5\" 360Hz G-Sync Gaming Monitor",
+    "brand": "ASUS",
+    "img": "https://i.ibb.co/H6V7dSK/monitor2.jpg",
+    "display_features": {
+      "display_size": "24.5 inches",
+      "display_type": "LED",
+      "panel_type": "IPS",
+      "resolution": "Full HD (1920\u00d71080)",
+      "display_surface": "Matte",
+      "aspect_ratio": "16:9",
+      "viewing_angle": "178\u00b0/178\u00b0",
+      "brightness": "400 cd/m\u00b2",
+      "contrast_ratio": "1000:1",
+      "refresh_rate": "360Hz",
+      "response_time": "1ms GTG",
+      "curvature": "Flat"
+    },
+    "video_features": {
+      "low_blue_light": "Yes",
+      "g_sync_support": "Yes",
+      "free_sync_support": "No"
+    },
+    "audio_features": {
+      "speaker": "N/A"
+    },
+    "connectivity": {
+      "display_port": "1x DisplayPort 1.4",
+      "hdmi": "1x HDMI 2.0",
+      "audio_jack": "Yes"
+    },
+    "mechanical_design": {
+      "tilt": "-5\u00b0 ~ +20\u00b0",
+      "vesa_wall_mount": "100x100mm"
+    },
+    "physical_specification": {
+      "color": "Black",
+      "dimension": "557 x 247 x 521 mm",
+      "weight": "7.1 kg"
+    },
+    "warranty_information": {
+      "warranty": "3 years"
+    },
+    "description": "The ASUS ROG Swift PG259QN is a premium esports monitor featuring a 360Hz refresh rate for ultra-smooth gameplay..."
+  },
+  {
+    "title": "Generic Gaming Monitor Model 3",
+    "brand": "Brand 3",
+    "img": "https://i.ibb.co/V0Km9z2W/monitor3.jpg",
+    "display_features": {
+      "display_size": "27 inches",
+      "display_type": "LED",
+      "panel_type": "IPS",
+      "resolution": "Full HD (1920\u00d71080)",
+      "display_surface": "Matte",
+      "aspect_ratio": "16:9",
+      "viewing_angle": "178\u00b0/178\u00b0",
+      "brightness": "300 cd/m\u00b2",
+      "contrast_ratio": "1000:1",
+      "refresh_rate": "144Hz",
+      "response_time": "1ms",
+      "curvature": "Flat"
+    },
+    "video_features": {
+      "low_blue_light": "Yes",
+      "g_sync_support": "No",
+      "free_sync_support": "Yes"
+    },
+    "audio_features": {
+      "speaker": "No"
+    },
+    "connectivity": {
+      "display_port": "1x DisplayPort",
+      "hdmi": "2x HDMI",
+      "audio_jack": "Yes"
+    },
+    "mechanical_design": {
+      "tilt": "-5\u00b0 ~ +15\u00b0",
+      "vesa_wall_mount": "100x100mm"
+    },
+    "physical_specification": {
+      "color": "Black",
+      "dimension": "620 x 370 x 210 mm",
+      "weight": "6.5 kg"
+    },
+    "warranty_information": {
+      "warranty": "3 years"
+    },
+    "description": "The Generic Gaming Monitor Model 3 delivers excellent performance and smooth visuals, perfect for immersive gaming experiences."
+  },
+  {
+    "title": "Generic Gaming Monitor Model 4",
+    "brand": "Brand 4",
+    "img": "https://i.ibb.co/d0Yr99qX/monitor4.jpg",
+    "display_features": {
+      "display_size": "27 inches",
+      "display_type": "LED",
+      "panel_type": "IPS",
+      "resolution": "Full HD (1920\u00d71080)",
+      "display_surface": "Matte",
+      "aspect_ratio": "16:9",
+      "viewing_angle": "178\u00b0/178\u00b0",
+      "brightness": "300 cd/m\u00b2",
+      "contrast_ratio": "1000:1",
+      "refresh_rate": "144Hz",
+      "response_time": "1ms",
+      "curvature": "Flat"
+    },
+    "video_features": {
+      "low_blue_light": "Yes",
+      "g_sync_support": "No",
+      "free_sync_support": "Yes"
+    },
+    "audio_features": {
+      "speaker": "No"
+    },
+    "connectivity": {
+      "display_port": "1x DisplayPort",
+      "hdmi": "2x HDMI",
+      "audio_jack": "Yes"
+    },
+    "mechanical_design": {
+      "tilt": "-5\u00b0 ~ +15\u00b0",
+      "vesa_wall_mount": "100x100mm"
+    },
+    "physical_specification": {
+      "color": "Black",
+      "dimension": "620 x 370 x 210 mm",
+      "weight": "6.5 kg"
+    },
+    "warranty_information": {
+      "warranty": "3 years"
+    },
+    "description": "The Generic Gaming Monitor Model 4 delivers excellent performance and smooth visuals, perfect for immersive gaming experiences."
+  },
+  {
+    "title": "Generic Gaming Monitor Model 5",
+    "brand": "Brand 5",
+    "img": "https://i.ibb.co/sd4vF0fG/monitor5.jpg",
+    "display_features": {
+      "display_size": "27 inches",
+      "display_type": "LED",
+      "panel_type": "IPS",
+      "resolution": "Full HD (1920\u00d71080)",
+      "display_surface": "Matte",
+      "aspect_ratio": "16:9",
+      "viewing_angle": "178\u00b0/178\u00b0",
+      "brightness": "300 cd/m\u00b2",
+      "contrast_ratio": "1000:1",
+      "refresh_rate": "144Hz",
+      "response_time": "1ms",
+      "curvature": "Flat"
+    },
+    "video_features": {
+      "low_blue_light": "Yes",
+      "g_sync_support": "No",
+      "free_sync_support": "Yes"
+    },
+    "audio_features": {
+      "speaker": "No"
+    },
+    "connectivity": {
+      "display_port": "1x DisplayPort",
+      "hdmi": "2x HDMI",
+      "audio_jack": "Yes"
+    },
+    "mechanical_design": {
+      "tilt": "-5\u00b0 ~ +15\u00b0",
+      "vesa_wall_mount": "100x100mm"
+    },
+    "physical_specification": {
+      "color": "Black",
+      "dimension": "620 x 370 x 210 mm",
+      "weight": "6.5 kg"
+    },
+    "warranty_information": {
+      "warranty": "3 years"
+    },
+    "description": "The Generic Gaming Monitor Model 5 delivers excellent performance and smooth visuals, perfect for immersive gaming experiences."
+  },
+  {
+    "title": "Generic Gaming Monitor Model 6",
+    "brand": "Brand 6",
+    "img": "https://i.ibb.co/Rp436WCp/monitor1.jpg",
+    "display_features": {
+      "display_size": "27 inches",
+      "display_type": "LED",
+      "panel_type": "IPS",
+      "resolution": "Full HD (1920\u00d71080)",
+      "display_surface": "Matte",
+      "aspect_ratio": "16:9",
+      "viewing_angle": "178\u00b0/178\u00b0",
+      "brightness": "300 cd/m\u00b2",
+      "contrast_ratio": "1000:1",
+      "refresh_rate": "144Hz",
+      "response_time": "1ms",
+      "curvature": "Flat"
+    },
+    "video_features": {
+      "low_blue_light": "Yes",
+      "g_sync_support": "No",
+      "free_sync_support": "Yes"
+    },
+    "audio_features": {
+      "speaker": "No"
+    },
+    "connectivity": {
+      "display_port": "1x DisplayPort",
+      "hdmi": "2x HDMI",
+      "audio_jack": "Yes"
+    },
+    "mechanical_design": {
+      "tilt": "-5\u00b0 ~ +15\u00b0",
+      "vesa_wall_mount": "100x100mm"
+    },
+    "physical_specification": {
+      "color": "Black",
+      "dimension": "620 x 370 x 210 mm",
+      "weight": "6.5 kg"
+    },
+    "warranty_information": {
+      "warranty": "3 years"
+    },
+    "description": "The Generic Gaming Monitor Model 6 delivers excellent performance and smooth visuals, perfect for immersive gaming experiences."
+  },
+  {
+    "title": "Generic Gaming Monitor Model 7",
+    "brand": "Brand 7",
+    "img": "https://i.ibb.co/H6V7dSK/monitor2.jpg",
+    "display_features": {
+      "display_size": "27 inches",
+      "display_type": "LED",
+      "panel_type": "IPS",
+      "resolution": "Full HD (1920\u00d71080)",
+      "display_surface": "Matte",
+      "aspect_ratio": "16:9",
+      "viewing_angle": "178\u00b0/178\u00b0",
+      "brightness": "300 cd/m\u00b2",
+      "contrast_ratio": "1000:1",
+      "refresh_rate": "144Hz",
+      "response_time": "1ms",
+      "curvature": "Flat"
+    },
+    "video_features": {
+      "low_blue_light": "Yes",
+      "g_sync_support": "No",
+      "free_sync_support": "Yes"
+    },
+    "audio_features": {
+      "speaker": "No"
+    },
+    "connectivity": {
+      "display_port": "1x DisplayPort",
+      "hdmi": "2x HDMI",
+      "audio_jack": "Yes"
+    },
+    "mechanical_design": {
+      "tilt": "-5\u00b0 ~ +15\u00b0",
+      "vesa_wall_mount": "100x100mm"
+    },
+    "physical_specification": {
+      "color": "Black",
+      "dimension": "620 x 370 x 210 mm",
+      "weight": "6.5 kg"
+    },
+    "warranty_information": {
+      "warranty": "3 years"
+    },
+    "description": "The Generic Gaming Monitor Model 7 delivers excellent performance and smooth visuals, perfect for immersive gaming experiences."
+  },
+  {
+    "title": "Generic Gaming Monitor Model 8",
+    "brand": "Brand 8",
+    "img": "https://i.ibb.co/V0Km9z2W/monitor3.jpg",
+    "display_features": {
+      "display_size": "27 inches",
+      "display_type": "LED",
+      "panel_type": "IPS",
+      "resolution": "Full HD (1920\u00d71080)",
+      "display_surface": "Matte",
+      "aspect_ratio": "16:9",
+      "viewing_angle": "178\u00b0/178\u00b0",
+      "brightness": "300 cd/m\u00b2",
+      "contrast_ratio": "1000:1",
+      "refresh_rate": "144Hz",
+      "response_time": "1ms",
+      "curvature": "Flat"
+    },
+    "video_features": {
+      "low_blue_light": "Yes",
+      "g_sync_support": "No",
+      "free_sync_support": "Yes"
+    },
+    "audio_features": {
+      "speaker": "No"
+    },
+    "connectivity": {
+      "display_port": "1x DisplayPort",
+      "hdmi": "2x HDMI",
+      "audio_jack": "Yes"
+    },
+    "mechanical_design": {
+      "tilt": "-5\u00b0 ~ +15\u00b0",
+      "vesa_wall_mount": "100x100mm"
+    },
+    "physical_specification": {
+      "color": "Black",
+      "dimension": "620 x 370 x 210 mm",
+      "weight": "6.5 kg"
+    },
+    "warranty_information": {
+      "warranty": "3 years"
+    },
+    "description": "The Generic Gaming Monitor Model 8 delivers excellent performance and smooth visuals, perfect for immersive gaming experiences."
+  },
+  {
+    "title": "Generic Gaming Monitor Model 9",
+    "brand": "Brand 9",
+    "img": "https://i.ibb.co/d0Yr99qX/monitor4.jpg",
+    "display_features": {
+      "display_size": "27 inches",
+      "display_type": "LED",
+      "panel_type": "IPS",
+      "resolution": "Full HD (1920\u00d71080)",
+      "display_surface": "Matte",
+      "aspect_ratio": "16:9",
+      "viewing_angle": "178\u00b0/178\u00b0",
+      "brightness": "300 cd/m\u00b2",
+      "contrast_ratio": "1000:1",
+      "refresh_rate": "144Hz",
+      "response_time": "1ms",
+      "curvature": "Flat"
+    },
+    "video_features": {
+      "low_blue_light": "Yes",
+      "g_sync_support": "No",
+      "free_sync_support": "Yes"
+    },
+    "audio_features": {
+      "speaker": "No"
+    },
+    "connectivity": {
+      "display_port": "1x DisplayPort",
+      "hdmi": "2x HDMI",
+      "audio_jack": "Yes"
+    },
+    "mechanical_design": {
+      "tilt": "-5\u00b0 ~ +15\u00b0",
+      "vesa_wall_mount": "100x100mm"
+    },
+    "physical_specification": {
+      "color": "Black",
+      "dimension": "620 x 370 x 210 mm",
+      "weight": "6.5 kg"
+    },
+    "warranty_information": {
+      "warranty": "3 years"
+    },
+    "description": "The Generic Gaming Monitor Model 9 delivers excellent performance and smooth visuals, perfect for immersive gaming experiences."
+  },
+  {
+    "title": "Generic Gaming Monitor Model 10",
+    "brand": "Brand 10",
+    "img": "https://i.ibb.co/sd4vF0fG/monitor5.jpg",
+    "display_features": {
+      "display_size": "27 inches",
+      "display_type": "LED",
+      "panel_type": "IPS",
+      "resolution": "Full HD (1920\u00d71080)",
+      "display_surface": "Matte",
+      "aspect_ratio": "16:9",
+      "viewing_angle": "178\u00b0/178\u00b0",
+      "brightness": "300 cd/m\u00b2",
+      "contrast_ratio": "1000:1",
+      "refresh_rate": "144Hz",
+      "response_time": "1ms",
+      "curvature": "Flat"
+    },
+    "video_features": {
+      "low_blue_light": "Yes",
+      "g_sync_support": "No",
+      "free_sync_support": "Yes"
+    },
+    "audio_features": {
+      "speaker": "No"
+    },
+    "connectivity": {
+      "display_port": "1x DisplayPort",
+      "hdmi": "2x HDMI",
+      "audio_jack": "Yes"
+    },
+    "mechanical_design": {
+      "tilt": "-5\u00b0 ~ +15\u00b0",
+      "vesa_wall_mount": "100x100mm"
+    },
+    "physical_specification": {
+      "color": "Black",
+      "dimension": "620 x 370 x 210 mm",
+      "weight": "6.5 kg"
+    },
+    "warranty_information": {
+      "warranty": "3 years"
+    },
+    "description": "The Generic Gaming Monitor Model 10 delivers excellent performance and smooth visuals, perfect for immersive gaming experiences."
+  },
+  {
+    "title": "Generic Gaming Monitor Model 11",
+    "brand": "Brand 11",
+    "img": "https://i.ibb.co/Rp436WCp/monitor1.jpg",
+    "display_features": {
+      "display_size": "27 inches",
+      "display_type": "LED",
+      "panel_type": "IPS",
+      "resolution": "Full HD (1920\u00d71080)",
+      "display_surface": "Matte",
+      "aspect_ratio": "16:9",
+      "viewing_angle": "178\u00b0/178\u00b0",
+      "brightness": "300 cd/m\u00b2",
+      "contrast_ratio": "1000:1",
+      "refresh_rate": "144Hz",
+      "response_time": "1ms",
+      "curvature": "Flat"
+    },
+    "video_features": {
+      "low_blue_light": "Yes",
+      "g_sync_support": "No",
+      "free_sync_support": "Yes"
+    },
+    "audio_features": {
+      "speaker": "No"
+    },
+    "connectivity": {
+      "display_port": "1x DisplayPort",
+      "hdmi": "2x HDMI",
+      "audio_jack": "Yes"
+    },
+    "mechanical_design": {
+      "tilt": "-5\u00b0 ~ +15\u00b0",
+      "vesa_wall_mount": "100x100mm"
+    },
+    "physical_specification": {
+      "color": "Black",
+      "dimension": "620 x 370 x 210 mm",
+      "weight": "6.5 kg"
+    },
+    "warranty_information": {
+      "warranty": "3 years"
+    },
+    "description": "The Generic Gaming Monitor Model 11 delivers excellent performance and smooth visuals, perfect for immersive gaming experiences."
+  },
+  {
+    "title": "Generic Gaming Monitor Model 12",
+    "brand": "Brand 12",
+    "img": "https://i.ibb.co/H6V7dSK/monitor2.jpg",
+    "display_features": {
+      "display_size": "27 inches",
+      "display_type": "LED",
+      "panel_type": "IPS",
+      "resolution": "Full HD (1920\u00d71080)",
+      "display_surface": "Matte",
+      "aspect_ratio": "16:9",
+      "viewing_angle": "178\u00b0/178\u00b0",
+      "brightness": "300 cd/m\u00b2",
+      "contrast_ratio": "1000:1",
+      "refresh_rate": "144Hz",
+      "response_time": "1ms",
+      "curvature": "Flat"
+    },
+    "video_features": {
+      "low_blue_light": "Yes",
+      "g_sync_support": "No",
+      "free_sync_support": "Yes"
+    },
+    "audio_features": {
+      "speaker": "No"
+    },
+    "connectivity": {
+      "display_port": "1x DisplayPort",
+      "hdmi": "2x HDMI",
+      "audio_jack": "Yes"
+    },
+    "mechanical_design": {
+      "tilt": "-5\u00b0 ~ +15\u00b0",
+      "vesa_wall_mount": "100x100mm"
+    },
+    "physical_specification": {
+      "color": "Black",
+      "dimension": "620 x 370 x 210 mm",
+      "weight": "6.5 kg"
+    },
+    "warranty_information": {
+      "warranty": "3 years"
+    },
+    "description": "The Generic Gaming Monitor Model 12 delivers excellent performance and smooth visuals, perfect for immersive gaming experiences."
+  },
+  {
+    "title": "Generic Gaming Monitor Model 13",
+    "brand": "Brand 13",
+    "img": "https://i.ibb.co/V0Km9z2W/monitor3.jpg",
+    "display_features": {
+      "display_size": "27 inches",
+      "display_type": "LED",
+      "panel_type": "IPS",
+      "resolution": "Full HD (1920\u00d71080)",
+      "display_surface": "Matte",
+      "aspect_ratio": "16:9",
+      "viewing_angle": "178\u00b0/178\u00b0",
+      "brightness": "300 cd/m\u00b2",
+      "contrast_ratio": "1000:1",
+      "refresh_rate": "144Hz",
+      "response_time": "1ms",
+      "curvature": "Flat"
+    },
+    "video_features": {
+      "low_blue_light": "Yes",
+      "g_sync_support": "No",
+      "free_sync_support": "Yes"
+    },
+    "audio_features": {
+      "speaker": "No"
+    },
+    "connectivity": {
+      "display_port": "1x DisplayPort",
+      "hdmi": "2x HDMI",
+      "audio_jack": "Yes"
+    },
+    "mechanical_design": {
+      "tilt": "-5\u00b0 ~ +15\u00b0",
+      "vesa_wall_mount": "100x100mm"
+    },
+    "physical_specification": {
+      "color": "Black",
+      "dimension": "620 x 370 x 210 mm",
+      "weight": "6.5 kg"
+    },
+    "warranty_information": {
+      "warranty": "3 years"
+    },
+    "description": "The Generic Gaming Monitor Model 13 delivers excellent performance and smooth visuals, perfect for immersive gaming experiences."
+  },
+  {
+    "title": "Generic Gaming Monitor Model 14",
+    "brand": "Brand 14",
+    "img": "https://i.ibb.co/d0Yr99qX/monitor4.jpg",
+    "display_features": {
+      "display_size": "27 inches",
+      "display_type": "LED",
+      "panel_type": "IPS",
+      "resolution": "Full HD (1920\u00d71080)",
+      "display_surface": "Matte",
+      "aspect_ratio": "16:9",
+      "viewing_angle": "178\u00b0/178\u00b0",
+      "brightness": "300 cd/m\u00b2",
+      "contrast_ratio": "1000:1",
+      "refresh_rate": "144Hz",
+      "response_time": "1ms",
+      "curvature": "Flat"
+    },
+    "video_features": {
+      "low_blue_light": "Yes",
+      "g_sync_support": "No",
+      "free_sync_support": "Yes"
+    },
+    "audio_features": {
+      "speaker": "No"
+    },
+    "connectivity": {
+      "display_port": "1x DisplayPort",
+      "hdmi": "2x HDMI",
+      "audio_jack": "Yes"
+    },
+    "mechanical_design": {
+      "tilt": "-5\u00b0 ~ +15\u00b0",
+      "vesa_wall_mount": "100x100mm"
+    },
+    "physical_specification": {
+      "color": "Black",
+      "dimension": "620 x 370 x 210 mm",
+      "weight": "6.5 kg"
+    },
+    "warranty_information": {
+      "warranty": "3 years"
+    },
+    "description": "The Generic Gaming Monitor Model 14 delivers excellent performance and smooth visuals, perfect for immersive gaming experiences."
+  },
+  {
+    "title": "Generic Gaming Monitor Model 15",
+    "brand": "Brand 15",
+    "img": "https://i.ibb.co/sd4vF0fG/monitor5.jpg",
+    "display_features": {
+      "display_size": "27 inches",
+      "display_type": "LED",
+      "panel_type": "IPS",
+      "resolution": "Full HD (1920\u00d71080)",
+      "display_surface": "Matte",
+      "aspect_ratio": "16:9",
+      "viewing_angle": "178\u00b0/178\u00b0",
+      "brightness": "300 cd/m\u00b2",
+      "contrast_ratio": "1000:1",
+      "refresh_rate": "144Hz",
+      "response_time": "1ms",
+      "curvature": "Flat"
+    },
+    "video_features": {
+      "low_blue_light": "Yes",
+      "g_sync_support": "No",
+      "free_sync_support": "Yes"
+    },
+    "audio_features": {
+      "speaker": "No"
+    },
+    "connectivity": {
+      "display_port": "1x DisplayPort",
+      "hdmi": "2x HDMI",
+      "audio_jack": "Yes"
+    },
+    "mechanical_design": {
+      "tilt": "-5\u00b0 ~ +15\u00b0",
+      "vesa_wall_mount": "100x100mm"
+    },
+    "physical_specification": {
+      "color": "Black",
+      "dimension": "620 x 370 x 210 mm",
+      "weight": "6.5 kg"
+    },
+    "warranty_information": {
+      "warranty": "3 years"
+    },
+    "description": "The Generic Gaming Monitor Model 15 delivers excellent performance and smooth visuals, perfect for immersive gaming experiences."
+  },
+  {
+    "title": "Generic Gaming Monitor Model 16",
+    "brand": "Brand 16",
+    "img": "https://i.ibb.co/Rp436WCp/monitor1.jpg",
+    "display_features": {
+      "display_size": "27 inches",
+      "display_type": "LED",
+      "panel_type": "IPS",
+      "resolution": "Full HD (1920\u00d71080)",
+      "display_surface": "Matte",
+      "aspect_ratio": "16:9",
+      "viewing_angle": "178\u00b0/178\u00b0",
+      "brightness": "300 cd/m\u00b2",
+      "contrast_ratio": "1000:1",
+      "refresh_rate": "144Hz",
+      "response_time": "1ms",
+      "curvature": "Flat"
+    },
+    "video_features": {
+      "low_blue_light": "Yes",
+      "g_sync_support": "No",
+      "free_sync_support": "Yes"
+    },
+    "audio_features": {
+      "speaker": "No"
+    },
+    "connectivity": {
+      "display_port": "1x DisplayPort",
+      "hdmi": "2x HDMI",
+      "audio_jack": "Yes"
+    },
+    "mechanical_design": {
+      "tilt": "-5\u00b0 ~ +15\u00b0",
+      "vesa_wall_mount": "100x100mm"
+    },
+    "physical_specification": {
+      "color": "Black",
+      "dimension": "620 x 370 x 210 mm",
+      "weight": "6.5 kg"
+    },
+    "warranty_information": {
+      "warranty": "3 years"
+    },
+    "description": "The Generic Gaming Monitor Model 16 delivers excellent performance and smooth visuals, perfect for immersive gaming experiences."
+  },
+  {
+    "title": "Generic Gaming Monitor Model 17",
+    "brand": "Brand 17",
+    "img": "https://i.ibb.co/H6V7dSK/monitor2.jpg",
+    "display_features": {
+      "display_size": "27 inches",
+      "display_type": "LED",
+      "panel_type": "IPS",
+      "resolution": "Full HD (1920\u00d71080)",
+      "display_surface": "Matte",
+      "aspect_ratio": "16:9",
+      "viewing_angle": "178\u00b0/178\u00b0",
+      "brightness": "300 cd/m\u00b2",
+      "contrast_ratio": "1000:1",
+      "refresh_rate": "144Hz",
+      "response_time": "1ms",
+      "curvature": "Flat"
+    },
+    "video_features": {
+      "low_blue_light": "Yes",
+      "g_sync_support": "No",
+      "free_sync_support": "Yes"
+    },
+    "audio_features": {
+      "speaker": "No"
+    },
+    "connectivity": {
+      "display_port": "1x DisplayPort",
+      "hdmi": "2x HDMI",
+      "audio_jack": "Yes"
+    },
+    "mechanical_design": {
+      "tilt": "-5\u00b0 ~ +15\u00b0",
+      "vesa_wall_mount": "100x100mm"
+    },
+    "physical_specification": {
+      "color": "Black",
+      "dimension": "620 x 370 x 210 mm",
+      "weight": "6.5 kg"
+    },
+    "warranty_information": {
+      "warranty": "3 years"
+    },
+    "description": "The Generic Gaming Monitor Model 17 delivers excellent performance and smooth visuals, perfect for immersive gaming experiences."
+  },
+  {
+    "title": "Generic Gaming Monitor Model 18",
+    "brand": "Brand 18",
+    "img": "https://i.ibb.co/V0Km9z2W/monitor3.jpg",
+    "display_features": {
+      "display_size": "27 inches",
+      "display_type": "LED",
+      "panel_type": "IPS",
+      "resolution": "Full HD (1920\u00d71080)",
+      "display_surface": "Matte",
+      "aspect_ratio": "16:9",
+      "viewing_angle": "178\u00b0/178\u00b0",
+      "brightness": "300 cd/m\u00b2",
+      "contrast_ratio": "1000:1",
+      "refresh_rate": "144Hz",
+      "response_time": "1ms",
+      "curvature": "Flat"
+    },
+    "video_features": {
+      "low_blue_light": "Yes",
+      "g_sync_support": "No",
+      "free_sync_support": "Yes"
+    },
+    "audio_features": {
+      "speaker": "No"
+    },
+    "connectivity": {
+      "display_port": "1x DisplayPort",
+      "hdmi": "2x HDMI",
+      "audio_jack": "Yes"
+    },
+    "mechanical_design": {
+      "tilt": "-5\u00b0 ~ +15\u00b0",
+      "vesa_wall_mount": "100x100mm"
+    },
+    "physical_specification": {
+      "color": "Black",
+      "dimension": "620 x 370 x 210 mm",
+      "weight": "6.5 kg"
+    },
+    "warranty_information": {
+      "warranty": "3 years"
+    },
+    "description": "The Generic Gaming Monitor Model 18 delivers excellent performance and smooth visuals, perfect for immersive gaming experiences."
+  },
+  {
+    "title": "Generic Gaming Monitor Model 19",
+    "brand": "Brand 19",
+    "img": "https://i.ibb.co/d0Yr99qX/monitor4.jpg",
+    "display_features": {
+      "display_size": "27 inches",
+      "display_type": "LED",
+      "panel_type": "IPS",
+      "resolution": "Full HD (1920\u00d71080)",
+      "display_surface": "Matte",
+      "aspect_ratio": "16:9",
+      "viewing_angle": "178\u00b0/178\u00b0",
+      "brightness": "300 cd/m\u00b2",
+      "contrast_ratio": "1000:1",
+      "refresh_rate": "144Hz",
+      "response_time": "1ms",
+      "curvature": "Flat"
+    },
+    "video_features": {
+      "low_blue_light": "Yes",
+      "g_sync_support": "No",
+      "free_sync_support": "Yes"
+    },
+    "audio_features": {
+      "speaker": "No"
+    },
+    "connectivity": {
+      "display_port": "1x DisplayPort",
+      "hdmi": "2x HDMI",
+      "audio_jack": "Yes"
+    },
+    "mechanical_design": {
+      "tilt": "-5\u00b0 ~ +15\u00b0",
+      "vesa_wall_mount": "100x100mm"
+    },
+    "physical_specification": {
+      "color": "Black",
+      "dimension": "620 x 370 x 210 mm",
+      "weight": "6.5 kg"
+    },
+    "warranty_information": {
+      "warranty": "3 years"
+    },
+    "description": "The Generic Gaming Monitor Model 19 delivers excellent performance and smooth visuals, perfect for immersive gaming experiences."
+  },
+  {
+    "title": "Generic Gaming Monitor Model 20",
+    "brand": "Brand 20",
+    "img": "https://i.ibb.co/sd4vF0fG/monitor5.jpg",
+    "display_features": {
+      "display_size": "27 inches",
+      "display_type": "LED",
+      "panel_type": "IPS",
+      "resolution": "Full HD (1920\u00d71080)",
+      "display_surface": "Matte",
+      "aspect_ratio": "16:9",
+      "viewing_angle": "178\u00b0/178\u00b0",
+      "brightness": "300 cd/m\u00b2",
+      "contrast_ratio": "1000:1",
+      "refresh_rate": "144Hz",
+      "response_time": "1ms",
+      "curvature": "Flat"
+    },
+    "video_features": {
+      "low_blue_light": "Yes",
+      "g_sync_support": "No",
+      "free_sync_support": "Yes"
+    },
+    "audio_features": {
+      "speaker": "No"
+    },
+    "connectivity": {
+      "display_port": "1x DisplayPort",
+      "hdmi": "2x HDMI",
+      "audio_jack": "Yes"
+    },
+    "mechanical_design": {
+      "tilt": "-5\u00b0 ~ +15\u00b0",
+      "vesa_wall_mount": "100x100mm"
+    },
+    "physical_specification": {
+      "color": "Black",
+      "dimension": "620 x 370 x 210 mm",
+      "weight": "6.5 kg"
+    },
+    "warranty_information": {
+      "warranty": "3 years"
+    },
+    "description": "The Generic Gaming Monitor Model 20 delivers excellent performance and smooth visuals, perfect for immersive gaming experiences."
+  },
+  {
+    "title": "Generic Gaming Monitor Model 21",
+    "brand": "Brand 21",
+    "img": "https://i.ibb.co/Rp436WCp/monitor1.jpg",
+    "display_features": {
+      "display_size": "27 inches",
+      "display_type": "LED",
+      "panel_type": "IPS",
+      "resolution": "Full HD (1920\u00d71080)",
+      "display_surface": "Matte",
+      "aspect_ratio": "16:9",
+      "viewing_angle": "178\u00b0/178\u00b0",
+      "brightness": "300 cd/m\u00b2",
+      "contrast_ratio": "1000:1",
+      "refresh_rate": "144Hz",
+      "response_time": "1ms",
+      "curvature": "Flat"
+    },
+    "video_features": {
+      "low_blue_light": "Yes",
+      "g_sync_support": "No",
+      "free_sync_support": "Yes"
+    },
+    "audio_features": {
+      "speaker": "No"
+    },
+    "connectivity": {
+      "display_port": "1x DisplayPort",
+      "hdmi": "2x HDMI",
+      "audio_jack": "Yes"
+    },
+    "mechanical_design": {
+      "tilt": "-5\u00b0 ~ +15\u00b0",
+      "vesa_wall_mount": "100x100mm"
+    },
+    "physical_specification": {
+      "color": "Black",
+      "dimension": "620 x 370 x 210 mm",
+      "weight": "6.5 kg"
+    },
+    "warranty_information": {
+      "warranty": "3 years"
+    },
+    "description": "The Generic Gaming Monitor Model 21 delivers excellent performance and smooth visuals, perfect for immersive gaming experiences."
+  },
+  {
+    "title": "Generic Gaming Monitor Model 22",
+    "brand": "Brand 22",
+    "img": "https://i.ibb.co/H6V7dSK/monitor2.jpg",
+    "display_features": {
+      "display_size": "27 inches",
+      "display_type": "LED",
+      "panel_type": "IPS",
+      "resolution": "Full HD (1920\u00d71080)",
+      "display_surface": "Matte",
+      "aspect_ratio": "16:9",
+      "viewing_angle": "178\u00b0/178\u00b0",
+      "brightness": "300 cd/m\u00b2",
+      "contrast_ratio": "1000:1",
+      "refresh_rate": "144Hz",
+      "response_time": "1ms",
+      "curvature": "Flat"
+    },
+    "video_features": {
+      "low_blue_light": "Yes",
+      "g_sync_support": "No",
+      "free_sync_support": "Yes"
+    },
+    "audio_features": {
+      "speaker": "No"
+    },
+    "connectivity": {
+      "display_port": "1x DisplayPort",
+      "hdmi": "2x HDMI",
+      "audio_jack": "Yes"
+    },
+    "mechanical_design": {
+      "tilt": "-5\u00b0 ~ +15\u00b0",
+      "vesa_wall_mount": "100x100mm"
+    },
+    "physical_specification": {
+      "color": "Black",
+      "dimension": "620 x 370 x 210 mm",
+      "weight": "6.5 kg"
+    },
+    "warranty_information": {
+      "warranty": "3 years"
+    },
+    "description": "The Generic Gaming Monitor Model 22 delivers excellent performance and smooth visuals, perfect for immersive gaming experiences."
+  },
+  {
+    "title": "Generic Gaming Monitor Model 23",
+    "brand": "Brand 23",
+    "img": "https://i.ibb.co/V0Km9z2W/monitor3.jpg",
+    "display_features": {
+      "display_size": "27 inches",
+      "display_type": "LED",
+      "panel_type": "IPS",
+      "resolution": "Full HD (1920\u00d71080)",
+      "display_surface": "Matte",
+      "aspect_ratio": "16:9",
+      "viewing_angle": "178\u00b0/178\u00b0",
+      "brightness": "300 cd/m\u00b2",
+      "contrast_ratio": "1000:1",
+      "refresh_rate": "144Hz",
+      "response_time": "1ms",
+      "curvature": "Flat"
+    },
+    "video_features": {
+      "low_blue_light": "Yes",
+      "g_sync_support": "No",
+      "free_sync_support": "Yes"
+    },
+    "audio_features": {
+      "speaker": "No"
+    },
+    "connectivity": {
+      "display_port": "1x DisplayPort",
+      "hdmi": "2x HDMI",
+      "audio_jack": "Yes"
+    },
+    "mechanical_design": {
+      "tilt": "-5\u00b0 ~ +15\u00b0",
+      "vesa_wall_mount": "100x100mm"
+    },
+    "physical_specification": {
+      "color": "Black",
+      "dimension": "620 x 370 x 210 mm",
+      "weight": "6.5 kg"
+    },
+    "warranty_information": {
+      "warranty": "3 years"
+    },
+    "description": "The Generic Gaming Monitor Model 23 delivers excellent performance and smooth visuals, perfect for immersive gaming experiences."
+  },
+  {
+    "title": "Generic Gaming Monitor Model 24",
+    "brand": "Brand 24",
+    "img": "https://i.ibb.co/d0Yr99qX/monitor4.jpg",
+    "display_features": {
+      "display_size": "27 inches",
+      "display_type": "LED",
+      "panel_type": "IPS",
+      "resolution": "Full HD (1920\u00d71080)",
+      "display_surface": "Matte",
+      "aspect_ratio": "16:9",
+      "viewing_angle": "178\u00b0/178\u00b0",
+      "brightness": "300 cd/m\u00b2",
+      "contrast_ratio": "1000:1",
+      "refresh_rate": "144Hz",
+      "response_time": "1ms",
+      "curvature": "Flat"
+    },
+    "video_features": {
+      "low_blue_light": "Yes",
+      "g_sync_support": "No",
+      "free_sync_support": "Yes"
+    },
+    "audio_features": {
+      "speaker": "No"
+    },
+    "connectivity": {
+      "display_port": "1x DisplayPort",
+      "hdmi": "2x HDMI",
+      "audio_jack": "Yes"
+    },
+    "mechanical_design": {
+      "tilt": "-5\u00b0 ~ +15\u00b0",
+      "vesa_wall_mount": "100x100mm"
+    },
+    "physical_specification": {
+      "color": "Black",
+      "dimension": "620 x 370 x 210 mm",
+      "weight": "6.5 kg"
+    },
+    "warranty_information": {
+      "warranty": "3 years"
+    },
+    "description": "The Generic Gaming Monitor Model 24 delivers excellent performance and smooth visuals, perfect for immersive gaming experiences."
+  },
+  {
+    "title": "Generic Gaming Monitor Model 25",
+    "brand": "Brand 25",
+    "img": "https://i.ibb.co/sd4vF0fG/monitor5.jpg",
+    "display_features": {
+      "display_size": "27 inches",
+      "display_type": "LED",
+      "panel_type": "IPS",
+      "resolution": "Full HD (1920\u00d71080)",
+      "display_surface": "Matte",
+      "aspect_ratio": "16:9",
+      "viewing_angle": "178\u00b0/178\u00b0",
+      "brightness": "300 cd/m\u00b2",
+      "contrast_ratio": "1000:1",
+      "refresh_rate": "144Hz",
+      "response_time": "1ms",
+      "curvature": "Flat"
+    },
+    "video_features": {
+      "low_blue_light": "Yes",
+      "g_sync_support": "No",
+      "free_sync_support": "Yes"
+    },
+    "audio_features": {
+      "speaker": "No"
+    },
+    "connectivity": {
+      "display_port": "1x DisplayPort",
+      "hdmi": "2x HDMI",
+      "audio_jack": "Yes"
+    },
+    "mechanical_design": {
+      "tilt": "-5\u00b0 ~ +15\u00b0",
+      "vesa_wall_mount": "100x100mm"
+    },
+    "physical_specification": {
+      "color": "Black",
+      "dimension": "620 x 370 x 210 mm",
+      "weight": "6.5 kg"
+    },
+    "warranty_information": {
+      "warranty": "3 years"
+    },
+    "description": "The Generic Gaming Monitor Model 25 delivers excellent performance and smooth visuals, perfect for immersive gaming experiences."
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "title": "ThundeRobot Thor ZPF25F240 24.5\" 280Hz FHD Fast IPS Gaming Monitor",
+  "brand": "ThundeRobot",
+  "img": [
+    "https://example.com/images/monitor1.jpg",
+    "https://example.com/images/monitor1_side.jpg",
+    "https://example.com/images/monitor1_back.jpg"
+  ],
+  "price": "8000",
+  "Quantity": "10",
+  "specs": {
+    "Model": "Thor ZPF25F240",
+    "Display Size": "24.5 inches",
+    "Panel Type": "Fast IPS",
+    "Resolution": "1920×1080",
+    "Refresh Rate": "280Hz OC",
+    "Ports": "1xDP 1.4, 2xHDMI 2.0, 1x Audio Out"
+  },
+  "description": "Experience next-level gaming performance with the ThundeRobot Thor ZPF25F240 24.5\" Gaming Monitor. This high-performance monitor features a 24.5-inch Fast IPS display with a Full HD resolution (1920×1080), delivering sharp visuals and vibrant colors from wide viewing angles. With a stunning 280Hz overclocked refresh rate and 1ms response time, it ensures ultra-smooth gameplay with minimal motion blur, making it ideal for competitive gaming. Equipped with versatile connectivity options including 1x DisplayPort 1.4, 2x HDMI 2.0 ports, and 1x Audio Out, the Thor ZPF25F240 offers compatibility with a wide range of gaming setups and audio devices. The ultra-fast refresh rate and low input lag provide a seamless gaming experience, especially for FPS, racing, and eSports titles. Designed for gamers, the monitor features customizable game modes, low blue light technology to reduce eye strain during extended sessions, and a sleek, modern design with narrow bezels that’s perfect for multi-monitor setups. Its ergonomic stand allows for tilt adjustments to ensure comfortable viewing. Whether you're a casual gamer or an aspiring pro, the ThundeRobot Thor ZPF25F240 combines speed, clarity, and reliability to elevate your gaming experience.",
+  "category": "monitor"
+}
+
+
+

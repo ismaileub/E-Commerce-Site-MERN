@@ -7,6 +7,8 @@
 .auth-container h1 {
   font-weight: bold;
   margin: 0;
+  line-height: 1.2;
+  letter-spacing: 0.2px;
 }
 
 .auth-container h2 {
@@ -23,6 +25,7 @@
 
 .auth-container span {
   font-size: 12px;
+  opacity: 0.8;
 }
 
 .auth-container a {
@@ -30,6 +33,20 @@
   font-size: 14px;
   text-decoration: none;
   margin: 15px 0;
+  transition: opacity 160ms ease;
+}
+
+.auth-container a:hover {
+  opacity: 0.85;
+}
+
+.auth-container h6 {
+  margin: 0 0 6px;
+  width: 100%;
+  text-align: left;
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 1.15;
 }
 
 .auth-container button {
@@ -43,6 +60,13 @@
   letter-spacing: 1px;
   text-transform: uppercase;
   transition: transform 80ms ease-in;
+  cursor: pointer;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.auth-container button:hover {
+  filter: brightness(0.98);
 }
 
 .auth-container button:active {
@@ -73,8 +97,23 @@
   background-color: #eee;
   border: none;
   padding: 12px 15px;
-  margin: 8px 0;
+  margin: 8px 0 2px;
   width: 100%;
+  border-radius: 10px;
+  outline: none;
+  border: 1px solid transparent;
+  transition: border-color 180ms ease, box-shadow 180ms ease,
+    background-color 180ms ease;
+}
+
+.auth-container input::placeholder {
+  opacity: 0.75;
+}
+
+.auth-container input:focus {
+  background-color: #eee;
+  border-color: #ff4b2b;
+  box-shadow: 0 0 0 3px rgba(255, 75, 43, 0.18);
 }
 
 .auth-container {
@@ -182,6 +221,7 @@
   width: 50%;
   transform: translateX(0);
   transition: transform 0.6s ease-in-out;
+  gap: 8px;
 }
 
 .overlay-left {
@@ -214,4 +254,21 @@
   margin: 0 5px;
   height: 40px;
   width: 40px;
+  transition: transform 120ms ease, background-color 120ms ease,
+    border-color 120ms ease;
+}
+
+.social-container a:hover {
+  transform: translateY(-1px);
+  border-color: #dddddd;
+}
+
+@media (max-width: 640px) {
+  .auth-container {
+    min-height: 520px;
+  }
+
+  .auth-container form {
+    padding: 0 28px;
+  }
 }

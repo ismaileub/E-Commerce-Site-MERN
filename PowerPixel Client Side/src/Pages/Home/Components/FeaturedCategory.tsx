@@ -13,9 +13,9 @@ const pcTabs = [
 ];
 
 const FeaturedCategory = () => {
-  const [value, setValue] = React.useState(2); // Default to 'New Arrivals'
+  const [value, setValue] = React.useState(2);
 
-  const handleChange = (event, newValue) => {
+  const handleChange = (_event: React.SyntheticEvent, newValue: number) => {
     setValue(newValue);
   };
 
@@ -24,7 +24,7 @@ const FeaturedCategory = () => {
       {/* Tab Header */}
       <Box
         sx={{
-          backgroundColor: "#ffffff", // Correct raw color
+          backgroundColor: "#ffffff",
           borderRadius: 1,
           display: "inline-block",
         }}
@@ -33,8 +33,6 @@ const FeaturedCategory = () => {
           value={value}
           onChange={handleChange}
           aria-label="Category Tabs"
-          textColor="#555"
-          indicatorColor="#555"
           sx={{
             "& .MuiTab-root": {
               fontWeight: 600,
@@ -44,6 +42,9 @@ const FeaturedCategory = () => {
             },
             "& .Mui-selected": {
               color: "#f97316",
+            },
+            "& .MuiTabs-indicator": {
+              backgroundColor: "#555",
             },
           }}
         >

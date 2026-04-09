@@ -1,0 +1,1002 @@
+[
+  {
+    "title": "Crucial RAM 8GB DDR4 3000MHz U-DIMM Desktop RAM",
+    "price": 93,
+    "brand": "Crucial",
+    "key_features": {
+      "MPN": "CMK16GX4M2B3200C16",
+      "Model": "8GB DDR4 3000MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3000MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "8GB",
+    "frequency": "3000MHz",
+    "quantity": 2,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/Df4vRWhY/ram1.png"
+  },
+  {
+    "title": "G.Skill RAM 32GB DDR4 3600MHz U-DIMM Desktop RAM",
+    "price": 103,
+    "brand": "G.Skill",
+    "key_features": {
+      "MPN": "JM3200HLB-8G",
+      "Model": "32GB DDR4 3600MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "2666MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "32GB",
+    "frequency": "3600MHz",
+    "quantity": 1,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/GQ1W5Fvk/ram9.png"
+  },
+  {
+    "title": "G.Skill RAM 32GB DDR4 2666MHz U-DIMM Desktop RAM",
+    "price": 47,
+    "brand": "G.Skill",
+    "key_features": {
+      "MPN": "KF432C16BBK2/16",
+      "Model": "32GB DDR4 2666MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3000MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "32GB",
+    "frequency": "2666MHz",
+    "quantity": 2,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/4ZqdN1LL/ram8.png"
+  },
+  {
+    "title": "Kingston RAM 8GB DDR4 3600MHz U-DIMM Desktop RAM",
+    "price": 168,
+    "brand": "Kingston",
+    "key_features": {
+      "MPN": "CMK16GX4M2B3200C16",
+      "Model": "8GB DDR4 3600MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3000MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "8GB",
+    "frequency": "3600MHz",
+    "quantity": 2,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/4wJ52Kn9/ram7.png"
+  },
+  {
+    "title": "Kingston RAM 32GB DDR4 2933MHz U-DIMM Desktop RAM",
+    "price": 67,
+    "brand": "Kingston",
+    "key_features": {
+      "MPN": "F4-3200C16D-16GVKB",
+      "Model": "32GB DDR4 2933MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "2666MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "32GB",
+    "frequency": "2933MHz",
+    "quantity": 2,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/Kk2b1Z1/ram6.png"
+  },
+  {
+    "title": "Transcend RAM 16GB DDR4 3000MHz U-DIMM Desktop RAM",
+    "price": 151,
+    "brand": "Transcend",
+    "key_features": {
+      "MPN": "JM3200HLB-8G",
+      "Model": "16GB DDR4 3000MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "2933MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "16GB",
+    "frequency": "3000MHz",
+    "quantity": 8,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/Q7FvN0GS/ram5.png"
+  },
+  {
+    "title": "Transcend RAM 32GB DDR4 3600MHz U-DIMM Desktop RAM",
+    "price": 94,
+    "brand": "Transcend",
+    "key_features": {
+      "MPN": "CMK16GX4M2B3200C16",
+      "Model": "32GB DDR4 3600MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3200MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "32GB",
+    "frequency": "3600MHz",
+    "quantity": 4,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/bM9Yn5t8/ram4.jpg"
+  },
+  {
+    "title": "Kingston RAM 8GB DDR4 3200MHz U-DIMM Desktop RAM",
+    "price": 81,
+    "brand": "Kingston",
+    "key_features": {
+      "MPN": "F4-3200C16D-16GVKB",
+      "Model": "8GB DDR4 3200MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3000MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "8GB",
+    "frequency": "3200MHz",
+    "quantity": 8,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/Cp8vgnXs/ram3.jpg"
+  },
+  {
+    "title": "Crucial RAM 8GB DDR4 2933MHz U-DIMM Desktop RAM",
+    "price": 74,
+    "brand": "Crucial",
+    "key_features": {
+      "MPN": "CMK16GX4M2B3200C16",
+      "Model": "8GB DDR4 2933MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "2666MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "8GB",
+    "frequency": "2933MHz",
+    "quantity": 2,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/rK7GXNKc/ram2.jpg"
+  },
+  {
+    "title": "ADATA RAM 16GB DDR4 3200MHz U-DIMM Desktop RAM",
+    "price": 174,
+    "brand": "ADATA",
+    "key_features": {
+      "MPN": "F4-3200C16D-16GVKB",
+      "Model": "16GB DDR4 3200MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3000MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "16GB",
+    "frequency": "3200MHz",
+    "quantity": 2,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/Df4vRWhY/ram1.png"
+  },
+  {
+    "title": "ADATA RAM 8GB DDR4 3600MHz U-DIMM Desktop RAM",
+    "price": 32,
+    "brand": "ADATA",
+    "key_features": {
+      "MPN": "F4-3200C16D-16GVKB",
+      "Model": "8GB DDR4 3600MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "2933MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "8GB",
+    "frequency": "3600MHz",
+    "quantity": 1,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/Df4vRWhY/ram1.png"
+  },
+  {
+    "title": "G.Skill RAM 8GB DDR4 2933MHz U-DIMM Desktop RAM",
+    "price": 85,
+    "brand": "G.Skill",
+    "key_features": {
+      "MPN": "JM3200HLB-8G",
+      "Model": "8GB DDR4 2933MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3000MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "8GB",
+    "frequency": "2933MHz",
+    "quantity": 4,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/GQ1W5Fvk/ram9.png"
+  },
+  {
+    "title": "Corsair RAM 8GB DDR4 2666MHz U-DIMM Desktop RAM",
+    "price": 175,
+    "brand": "Corsair",
+    "key_features": {
+      "MPN": "CMK16GX4M2B3200C16",
+      "Model": "8GB DDR4 2666MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3000MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "8GB",
+    "frequency": "2666MHz",
+    "quantity": 16,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/4ZqdN1LL/ram8.png"
+  },
+  {
+    "title": "G.Skill RAM 16GB DDR4 2933MHz U-DIMM Desktop RAM",
+    "price": 47,
+    "brand": "G.Skill",
+    "key_features": {
+      "MPN": "KF432C16BBK2/16",
+      "Model": "16GB DDR4 2933MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3200MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "16GB",
+    "frequency": "2933MHz",
+    "quantity": 4,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/4wJ52Kn9/ram7.png"
+  },
+  {
+    "title": "G.Skill RAM 32GB DDR4 3200MHz U-DIMM Desktop RAM",
+    "price": 168,
+    "brand": "G.Skill",
+    "key_features": {
+      "MPN": "KF432C16BBK2/16",
+      "Model": "32GB DDR4 3200MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3000MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "32GB",
+    "frequency": "3200MHz",
+    "quantity": 4,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/Kk2b1Z1/ram6.png"
+  },
+  {
+    "title": "ADATA RAM 8GB DDR4 3600MHz U-DIMM Desktop RAM",
+    "price": 139,
+    "brand": "ADATA",
+    "key_features": {
+      "MPN": "JM3200HLB-8G",
+      "Model": "8GB DDR4 3600MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "2666MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "8GB",
+    "frequency": "3600MHz",
+    "quantity": 2,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/Q7FvN0GS/ram5.png"
+  },
+  {
+    "title": "Transcend RAM 8GB DDR4 2666MHz U-DIMM Desktop RAM",
+    "price": 152,
+    "brand": "Transcend",
+    "key_features": {
+      "MPN": "JM3200HLB-8G",
+      "Model": "8GB DDR4 2666MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3000MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "8GB",
+    "frequency": "2666MHz",
+    "quantity": 4,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/bM9Yn5t8/ram4.jpg"
+  },
+  {
+    "title": "Transcend RAM 16GB DDR4 3200MHz U-DIMM Desktop RAM",
+    "price": 41,
+    "brand": "Transcend",
+    "key_features": {
+      "MPN": "KF432C16BBK2/16",
+      "Model": "16GB DDR4 3200MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3000MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "16GB",
+    "frequency": "3200MHz",
+    "quantity": 1,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/Cp8vgnXs/ram3.jpg"
+  },
+  {
+    "title": "Corsair RAM 8GB DDR4 3600MHz U-DIMM Desktop RAM",
+    "price": 90,
+    "brand": "Corsair",
+    "key_features": {
+      "MPN": "JM3200HLB-8G",
+      "Model": "8GB DDR4 3600MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "2666MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "8GB",
+    "frequency": "3600MHz",
+    "quantity": 1,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/rK7GXNKc/ram2.jpg"
+  },
+  {
+    "title": "ADATA RAM 32GB DDR4 3200MHz U-DIMM Desktop RAM",
+    "price": 146,
+    "brand": "ADATA",
+    "key_features": {
+      "MPN": "F4-3200C16D-16GVKB",
+      "Model": "32GB DDR4 3200MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3200MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "32GB",
+    "frequency": "3200MHz",
+    "quantity": 1,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/Df4vRWhY/ram1.png"
+  },
+  {
+    "title": "Corsair RAM 8GB DDR4 2666MHz U-DIMM Desktop RAM",
+    "price": 132,
+    "brand": "Corsair",
+    "key_features": {
+      "MPN": "CMK16GX4M2B3200C16",
+      "Model": "8GB DDR4 2666MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "2666MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "8GB",
+    "frequency": "2666MHz",
+    "quantity": 1,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/Df4vRWhY/ram1.png"
+  },
+  {
+    "title": "Corsair RAM 16GB DDR4 3600MHz U-DIMM Desktop RAM",
+    "price": 83,
+    "brand": "Corsair",
+    "key_features": {
+      "MPN": "KF432C16BBK2/16",
+      "Model": "16GB DDR4 3600MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "2933MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "16GB",
+    "frequency": "3600MHz",
+    "quantity": 10,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/GQ1W5Fvk/ram9.png"
+  },
+  {
+    "title": "Transcend RAM 16GB DDR4 3200MHz U-DIMM Desktop RAM",
+    "price": 172,
+    "brand": "Transcend",
+    "key_features": {
+      "MPN": "F4-3200C16D-16GVKB",
+      "Model": "16GB DDR4 3200MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3000MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "16GB",
+    "frequency": "3200MHz",
+    "quantity": 1,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/4ZqdN1LL/ram8.png"
+  },
+  {
+    "title": "Crucial RAM 32GB DDR4 3000MHz U-DIMM Desktop RAM",
+    "price": 135,
+    "brand": "Crucial",
+    "key_features": {
+      "MPN": "F4-3200C16D-16GVKB",
+      "Model": "32GB DDR4 3000MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "2933MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "32GB",
+    "frequency": "3000MHz",
+    "quantity": 1,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/4wJ52Kn9/ram7.png"
+  },
+  {
+    "title": "Corsair RAM 8GB DDR4 2933MHz U-DIMM Desktop RAM",
+    "price": 87,
+    "brand": "Corsair",
+    "key_features": {
+      "MPN": "JM3200HLB-8G",
+      "Model": "8GB DDR4 2933MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "2933MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "8GB",
+    "frequency": "2933MHz",
+    "quantity": 1,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/Kk2b1Z1/ram6.png"
+  },
+  {
+    "title": "Corsair RAM 8GB DDR4 3600MHz U-DIMM Desktop RAM",
+    "price": 168,
+    "brand": "Corsair",
+    "key_features": {
+      "MPN": "JM3200HLB-8G",
+      "Model": "8GB DDR4 3600MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3200MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "8GB",
+    "frequency": "3600MHz",
+    "quantity": 4,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/Q7FvN0GS/ram5.png"
+  },
+  {
+    "title": "Crucial RAM 16GB DDR4 2933MHz U-DIMM Desktop RAM",
+    "price": 68,
+    "brand": "Crucial",
+    "key_features": {
+      "MPN": "KF432C16BBK2/16",
+      "Model": "16GB DDR4 2933MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3000MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "16GB",
+    "frequency": "2933MHz",
+    "quantity": 16,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/bM9Yn5t8/ram4.jpg"
+  },
+  {
+    "title": "Kingston RAM 32GB DDR4 3200MHz U-DIMM Desktop RAM",
+    "price": 137,
+    "brand": "Kingston",
+    "key_features": {
+      "MPN": "F4-3200C16D-16GVKB",
+      "Model": "32GB DDR4 3200MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3000MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "32GB",
+    "frequency": "3200MHz",
+    "quantity": 2,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/Cp8vgnXs/ram3.jpg"
+  },
+  {
+    "title": "ADATA RAM 16GB DDR4 2933MHz U-DIMM Desktop RAM",
+    "price": 155,
+    "brand": "ADATA",
+    "key_features": {
+      "MPN": "F4-3200C16D-16GVKB",
+      "Model": "16GB DDR4 2933MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3000MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "16GB",
+    "frequency": "2933MHz",
+    "quantity": 2,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/rK7GXNKc/ram2.jpg"
+  },
+  {
+    "title": "Transcend RAM 32GB DDR4 3600MHz U-DIMM Desktop RAM",
+    "price": 37,
+    "brand": "Transcend",
+    "key_features": {
+      "MPN": "F4-3200C16D-16GVKB",
+      "Model": "32GB DDR4 3600MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3000MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "32GB",
+    "frequency": "3600MHz",
+    "quantity": 10,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/Df4vRWhY/ram1.png"
+  },
+  {
+    "title": "ADATA RAM 16GB DDR4 3600MHz U-DIMM Desktop RAM",
+    "price": 168,
+    "brand": "ADATA",
+    "key_features": {
+      "MPN": "KF432C16BBK2/16",
+      "Model": "16GB DDR4 3600MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "2666MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "16GB",
+    "frequency": "3600MHz",
+    "quantity": 1,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/Df4vRWhY/ram1.png"
+  },
+  {
+    "title": "ADATA RAM 8GB DDR4 3000MHz U-DIMM Desktop RAM",
+    "price": 144,
+    "brand": "ADATA",
+    "key_features": {
+      "MPN": "JM3200HLB-8G",
+      "Model": "8GB DDR4 3000MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "2933MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "8GB",
+    "frequency": "3000MHz",
+    "quantity": 1,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/GQ1W5Fvk/ram9.png"
+  },
+  {
+    "title": "ADATA RAM 8GB DDR4 3000MHz U-DIMM Desktop RAM",
+    "price": 131,
+    "brand": "ADATA",
+    "key_features": {
+      "MPN": "CMK16GX4M2B3200C16",
+      "Model": "8GB DDR4 3000MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3200MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "8GB",
+    "frequency": "3000MHz",
+    "quantity": 8,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/4ZqdN1LL/ram8.png"
+  },
+  {
+    "title": "Corsair RAM 16GB DDR4 2666MHz U-DIMM Desktop RAM",
+    "price": 94,
+    "brand": "Corsair",
+    "key_features": {
+      "MPN": "F4-3200C16D-16GVKB",
+      "Model": "16GB DDR4 2666MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3000MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "16GB",
+    "frequency": "2666MHz",
+    "quantity": 2,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/4wJ52Kn9/ram7.png"
+  },
+  {
+    "title": "Transcend RAM 16GB DDR4 3200MHz U-DIMM Desktop RAM",
+    "price": 38,
+    "brand": "Transcend",
+    "key_features": {
+      "MPN": "CMK16GX4M2B3200C16",
+      "Model": "16GB DDR4 3200MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "2666MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "16GB",
+    "frequency": "3200MHz",
+    "quantity": 8,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/Kk2b1Z1/ram6.png"
+  },
+  {
+    "title": "Corsair RAM 32GB DDR4 3600MHz U-DIMM Desktop RAM",
+    "price": 87,
+    "brand": "Corsair",
+    "key_features": {
+      "MPN": "CMK16GX4M2B3200C16",
+      "Model": "32GB DDR4 3600MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3200MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "32GB",
+    "frequency": "3600MHz",
+    "quantity": 10,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/Q7FvN0GS/ram5.png"
+  },
+  {
+    "title": "Transcend RAM 8GB DDR4 2666MHz U-DIMM Desktop RAM",
+    "price": 34,
+    "brand": "Transcend",
+    "key_features": {
+      "MPN": "KF432C16BBK2/16",
+      "Model": "8GB DDR4 2666MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "2933MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "8GB",
+    "frequency": "2666MHz",
+    "quantity": 16,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/bM9Yn5t8/ram4.jpg"
+  },
+  {
+    "title": "Crucial RAM 16GB DDR4 3600MHz U-DIMM Desktop RAM",
+    "price": 61,
+    "brand": "Crucial",
+    "key_features": {
+      "MPN": "CMK16GX4M2B3200C16",
+      "Model": "16GB DDR4 3600MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3000MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "16GB",
+    "frequency": "3600MHz",
+    "quantity": 4,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/Cp8vgnXs/ram3.jpg"
+  },
+  {
+    "title": "G.Skill RAM 32GB DDR4 3000MHz U-DIMM Desktop RAM",
+    "price": 84,
+    "brand": "G.Skill",
+    "key_features": {
+      "MPN": "F4-3200C16D-16GVKB",
+      "Model": "32GB DDR4 3000MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "2933MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "32GB",
+    "frequency": "3000MHz",
+    "quantity": 4,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/rK7GXNKc/ram2.jpg"
+  },
+  {
+    "title": "G.Skill RAM 16GB DDR4 2933MHz U-DIMM Desktop RAM",
+    "price": 44,
+    "brand": "G.Skill",
+    "key_features": {
+      "MPN": "F4-3200C16D-16GVKB",
+      "Model": "16GB DDR4 2933MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3000MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "16GB",
+    "frequency": "2933MHz",
+    "quantity": 2,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/Df4vRWhY/ram1.png"
+  },
+  {
+    "title": "Kingston RAM 16GB DDR4 2666MHz U-DIMM Desktop RAM",
+    "price": 67,
+    "brand": "Kingston",
+    "key_features": {
+      "MPN": "JM3200HLB-8G",
+      "Model": "16GB DDR4 2666MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "2933MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "16GB",
+    "frequency": "2666MHz",
+    "quantity": 2,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/Df4vRWhY/ram1.png"
+  },
+  {
+    "title": "Crucial RAM 16GB DDR4 3200MHz U-DIMM Desktop RAM",
+    "price": 44,
+    "brand": "Crucial",
+    "key_features": {
+      "MPN": "CMK16GX4M2B3200C16",
+      "Model": "16GB DDR4 3200MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "2933MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "16GB",
+    "frequency": "3200MHz",
+    "quantity": 8,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/GQ1W5Fvk/ram9.png"
+  },
+  {
+    "title": "G.Skill RAM 32GB DDR4 3200MHz U-DIMM Desktop RAM",
+    "price": 35,
+    "brand": "G.Skill",
+    "key_features": {
+      "MPN": "F4-3200C16D-16GVKB",
+      "Model": "32GB DDR4 3200MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3000MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "32GB",
+    "frequency": "3200MHz",
+    "quantity": 16,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/4ZqdN1LL/ram8.png"
+  },
+  {
+    "title": "G.Skill RAM 8GB DDR4 3200MHz U-DIMM Desktop RAM",
+    "price": 161,
+    "brand": "G.Skill",
+    "key_features": {
+      "MPN": "CMK16GX4M2B3200C16",
+      "Model": "8GB DDR4 3200MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "2933MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "8GB",
+    "frequency": "3200MHz",
+    "quantity": 8,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/4wJ52Kn9/ram7.png"
+  },
+  {
+    "title": "G.Skill RAM 32GB DDR4 3000MHz U-DIMM Desktop RAM",
+    "price": 30,
+    "brand": "G.Skill",
+    "key_features": {
+      "MPN": "JM3200HLB-8G",
+      "Model": "32GB DDR4 3000MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "2666MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "32GB",
+    "frequency": "3000MHz",
+    "quantity": 4,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/Kk2b1Z1/ram6.png"
+  },
+  {
+    "title": "Kingston RAM 8GB DDR4 3200MHz U-DIMM Desktop RAM",
+    "price": 108,
+    "brand": "Kingston",
+    "key_features": {
+      "MPN": "CMK16GX4M2B3200C16",
+      "Model": "8GB DDR4 3200MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3000MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "8GB",
+    "frequency": "3200MHz",
+    "quantity": 4,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/Q7FvN0GS/ram5.png"
+  },
+  {
+    "title": "Transcend RAM 32GB DDR4 2933MHz U-DIMM Desktop RAM",
+    "price": 161,
+    "brand": "Transcend",
+    "key_features": {
+      "MPN": "KF432C16BBK2/16",
+      "Model": "32GB DDR4 2933MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3000MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "32GB",
+    "frequency": "2933MHz",
+    "quantity": 2,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/bM9Yn5t8/ram4.jpg"
+  },
+  {
+    "title": "Crucial RAM 8GB DDR4 3600MHz U-DIMM Desktop RAM",
+    "price": 138,
+    "brand": "Crucial",
+    "key_features": {
+      "MPN": "KF432C16BBK2/16",
+      "Model": "8GB DDR4 3600MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3200MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "8GB",
+    "frequency": "3600MHz",
+    "quantity": 16,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/Cp8vgnXs/ram3.jpg"
+  },
+  {
+    "title": "G.Skill RAM 16GB DDR4 3000MHz U-DIMM Desktop RAM",
+    "price": 178,
+    "brand": "G.Skill",
+    "key_features": {
+      "MPN": "CMK16GX4M2B3200C16",
+      "Model": "16GB DDR4 3000MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "2666MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "16GB",
+    "frequency": "3000MHz",
+    "quantity": 4,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/rK7GXNKc/ram2.jpg"
+  },
+  {
+    "title": "Crucial RAM 8GB DDR4 3200MHz U-DIMM Desktop RAM",
+    "price": 140,
+    "brand": "Crucial",
+    "key_features": {
+      "MPN": "KF432C16BBK2/16",
+      "Model": "8GB DDR4 3200MHz U-DIMM Desktop RAM",
+      "Bandwidth": "up to 25.6GB/s",
+      "Operating_voltage": "1.2V",
+      "Bus_Speed": "3200MHz",
+      "Number_of_Pins": "288-Pin"
+    },
+    "type": "DDR4",
+    "capacity": "8GB",
+    "frequency": "3200MHz",
+    "quantity": 8,
+    "description": "Transcend JetRam comes with an 8GB DDR4 3200MHz capacity. It is manufactured with true ETT grade. It has CL22 CAS Latency and 288-Pin. The JetRam provides excellent compatibility and fully-tested reliability, which is ideal for PC upgrades at a reasonable price. By higher bandwidth of up to 25.6GB/s, each memory module is rated at 3200 Mbps to greatly increase data transmission efficiency. Transcend's DDR4 U-DIMM JetRam memory ensures that both operating temperature and electrical load on the memory controller can be reduced in order to save up to 40% of energy compared to standard DDR3 modules offering 1.5V with Operated at a nominal voltage of just 1.2V. The Transcend JetRam has a Lifetime Warranty.",
+    "warranty": "Lifetime",
+    "img": "https://i.ibb.co/Df4vRWhY/ram1.png"
+  }
+]
