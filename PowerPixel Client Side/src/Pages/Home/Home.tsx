@@ -3,27 +3,33 @@ import ServiceHighlights from "./Components/ServiceHighlights";
 import Marque from "./Components/Marque";
 import StoreLocation from "./Components/StoreLocation";
 import FeaturedCategory from "./Components/FeaturedCategory";
+import WorkProcess from "./Components/WorkProcess";
+import Testimonials from "./Components/Testimonials";
+import BrandingAndSEO from "./Components/BrandingAndSEO";
+import Footer from "./Components/Footer";
 
 const Home = () => {
   return (
-    <div className="container mx-auto ">
-      <Banner />
+    <div>
+      <div className="mx-auto max-w-[1500px] px-4 sm:px-6 lg:px-8">
+        <Banner />
 
-      <ServiceHighlights />
+        <ServiceHighlights />
 
-      <Marque />
+        <Marque />
 
-      <StoreLocation />
+        <StoreLocation />
 
-      <FeaturedCategory />
+        <FeaturedCategory />
 
-      <div>
-        sdfsfdsfdsfdsf
-        <br />
-        sdfsfsdf
+        <WorkProcess />
+
+        <Testimonials />
+
+        <BrandingAndSEO />
       </div>
 
-      <footer></footer>
+      <Footer />
     </div>
   );
 };

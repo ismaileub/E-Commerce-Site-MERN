@@ -19,7 +19,7 @@ type SignInValues = {
 };
 
 const AuthForm = () => {
-  const { createUser, signIn } = useAuth();
+  const { createUser, signIn, googleSignIn } = useAuth();
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -51,6 +51,7 @@ const AuthForm = () => {
     formState: { errors: signUpErrors },
     handleSubmit: handleSubmitSignUp,
     setError: setSignUpError,
+    reset: resetSignUp,
   } = useForm<AuthFormValues>();
 
   const {
@@ -58,6 +59,7 @@ const AuthForm = () => {
     formState: { errors: signInErrors },
     handleSubmit: handleSubmitSignIn,
     setError: setSignInError,
+    reset: resetSignIn,
   } = useForm<SignInValues>();
 
   const onSubmitSignUp: SubmitHandler<AuthFormValues> = (data) => {
@@ -88,6 +90,10 @@ const AuthForm = () => {
         const user = result.user;
         console.log(user);
         toast.success("Sign Up successful!");
+
+        // Clear the form fields after successful sign up
+        resetSignUp();
+
         setTimeout(() => {
           const modal = document.getElementById("my_modal_2");
           if (modal instanceof HTMLDialogElement) {
@@ -130,6 +136,10 @@ const AuthForm = () => {
         const user = result.user;
         console.log(user);
         toast.success("Sign In successful!");
+
+        // Clear the form fields after successful sign in
+        resetSignIn();
+
         setTimeout(() => {
           const modal = document.getElementById("my_modal_2");
           if (modal instanceof HTMLDialogElement) {
@@ -152,6 +162,25 @@ const AuthForm = () => {
       });
   };
 
+  const handleGoogleSignIn = () => {
+    googleSignIn().then((result) => {
+      const userInfo = {
+        email: result.user?.email,
+        name: result.user?.displayName,
+      };
+
+      console.log(userInfo);
+      toast.success("Google Sign-In successful!");
+      setTimeout(() => {
+        const modal = document.getElementById("my_modal_2");
+        if (modal instanceof HTMLDialogElement) {
+          modal.close();
+        }
+        navigate("/");
+      }, 300);
+    });
+  };
+
   return (
     <>
       <div className="auth-container " id="container">
@@ -162,7 +191,7 @@ const AuthForm = () => {
           <form onSubmit={handleSubmitSignUp(onSubmitSignUp)}>
             <h1>Create Account</h1>
             <div className="social-container">
-              <a href="#" className="social">
+              <a href="#" className="social" onClick={handleGoogleSignIn}>
                 <FcGoogle className="text-3xl" />
               </a>
             </div>
@@ -196,7 +225,7 @@ const AuthForm = () => {
           <form onSubmit={handleSubmitSignIn(onSubmitSignIn)}>
             <h1>Sign in</h1>
             <div className="social-container">
-              <a href="#" className="social">
+              <a href="#" className="social" onClick={handleGoogleSignIn}>
                 <FcGoogle className="text-3xl" />
               </a>
             </div>

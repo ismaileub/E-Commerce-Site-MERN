@@ -1,6 +1,7 @@
 import { FaShoppingCart } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import AuthForm from "../../AuthForm/AuthForm";
+import useAuth from "../../../Hooks/useAuth";
 
 const NavBar = () => {
   const openAuthModal = () => {
@@ -10,6 +11,23 @@ const NavBar = () => {
     }
   };
 
+  const { user, logOut, loading } = useAuth();
+  if (loading) {
+    return (
+      <div className="flex items-center justify-center h-screen">
+        {/* <div className="animate-spin rounded-full h-16 w-16 border-t-4 border-blue-500"></div> */}
+      </div>
+    );
+  }
+
+  const userLabel = user?.displayName || user?.email;
+
+  const handleLogOut = () => {
+    logOut().catch((error) => {
+      console.log(error);
+    });
+  };
+
   return (
     <div>
       <nav>
@@ -17,11 +35,11 @@ const NavBar = () => {
           {/* Top row: Logo and Sign In */}
           <div className="flex justify-between items-center">
             <Link to="/">
-              <h2 className="lg:text-3xl text-xl font-extrabold bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-transparent bg-clip-text">
+              <h2 className="text-2xl font-extrabold bg-gradient-to-r from-cyan-500 to-blue-500 text-transparent bg-clip-text">
                 PowerPixel
               </h2>
 
-              <p className="text-xs font-bold text-[#FF6F5E]">
+              <p className="text-xs font-bold text-nowrap text-[#790de5]">
                 Your accessories are here{" "}
               </p>
             </Link>
@@ -33,15 +51,31 @@ const NavBar = () => {
                   3
                 </span>
               </Link>
-              {/* Sign In */}
-              <Link to="/signin">
+              {/* Sign In / Logout */}
+              {user ? (
+                <>
+                  {userLabel ? (
+                    <span className="text-sm font-semibold text-gray-700 max-w-[120px] truncate">
+                      {userLabel}
+                    </span>
+                  ) : null}
+                  <button
+                    onClick={handleLogOut}
+                    type="button"
+                    className="text-white bg-gradient-to-r from-cyan-500 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800 font-bold rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 text-nowrap cursor-pointer"
+                  >
+                    Logout
+                  </button>
+                </>
+              ) : (
                 <button
+                  onClick={openAuthModal}
                   type="button"
                   className="text-white bg-gradient-to-r from-cyan-500 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800 font-bold rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 text-nowrap cursor-pointer"
                 >
                   Sign In
                 </button>
-              </Link>
+              )}
             </div>
           </div>
 
@@ -98,13 +132,30 @@ const NavBar = () => {
               </span>
             </Link>
 
-            <button
-              onClick={openAuthModal}
-              type="button"
-              className="text-white bg-gradient-to-r from-cyan-500 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800 font-bold rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 text-nowrap cursor-pointer"
-            >
-              Sign In
-            </button>
+            {user ? (
+              <>
+                {userLabel ? (
+                  <span className="text-sm font-semibold text-gray-700 max-w-[180px] truncate">
+                    {userLabel}
+                  </span>
+                ) : null}
+                <button
+                  onClick={handleLogOut}
+                  type="button"
+                  className="text-white bg-gradient-to-r from-cyan-500 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800 font-bold rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 text-nowrap cursor-pointer"
+                >
+                  Logout
+                </button>
+              </>
+            ) : (
+              <button
+                onClick={openAuthModal}
+                type="button"
+                className="text-white bg-gradient-to-r from-cyan-500 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800 font-bold rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 text-nowrap cursor-pointer"
+              >
+                Sign In
+              </button>
+            )}
           </div>
         </div>
       </nav>

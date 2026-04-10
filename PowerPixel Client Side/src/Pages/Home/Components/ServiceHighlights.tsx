@@ -25,7 +25,7 @@ const data = [
 
 const ServiceHighlights = () => {
   return (
-    <div className=" w-full flex flex-wrap gap-4 justify-between items-center mt-8">
+    <div className=" w-full flex mx-auto  flex-wrap gap-4 justify-between items-center mt-8">
       {data.map((item, index) => (
         <div
           key={index}

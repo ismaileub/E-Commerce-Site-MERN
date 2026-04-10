@@ -13,7 +13,7 @@ import b5 from "../../../assets/BannerImg/b5.png";
 
 const Banner = () => {
   return (
-    <div className="mt-10">
+    <div className="mt-10  mx-auto ">
       <Swiper
         spaceBetween={30}
         centeredSlides={true}
