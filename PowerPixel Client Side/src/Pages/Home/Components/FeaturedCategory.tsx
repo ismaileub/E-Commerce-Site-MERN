@@ -408,7 +408,7 @@ const FeaturedCategory = () => {
                 type="button"
                 onClick={() => setValue(index)}
                 className={
-                  "px-5 py-2.5 text-sm font-semibold transition-all duration-200 rounded-lg whitespace-nowrap " +
+                  "px-5 py-2.5 cursor-pointer text-sm font-semibold transition-all duration-200 rounded-lg whitespace-nowrap " +
                   (isActive
                     ? "bg-white text-orange-500 shadow-sm ring-1 ring-black/5"
                     : "text-gray-500 hover:text-gray-900")

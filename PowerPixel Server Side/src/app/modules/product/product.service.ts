@@ -13,10 +13,12 @@ const getAllProducts = async (query: any) => {
   const {
     search,
 
+    type,
+
     brand,
     minPrice,
     maxPrice,
-    sort = "price",
+    sort = "createdAt",
     order = "desc",
     page = 1,
     limit = 10,
@@ -33,10 +35,10 @@ const getAllProducts = async (query: any) => {
     ];
   }
 
-  //   //  FILTER BY HARDWARE TYPE (MOST IMPORTANT)
-  //   if (type) {
-  //     filter["specs.type"] = type;
-  //   }
+  //  FILTER BY HARDWARE TYPE (specs.type)
+  if (type) {
+    filter["specs.type"] = type;
+  }
 
   if (brand) {
     filter.brand = brand;

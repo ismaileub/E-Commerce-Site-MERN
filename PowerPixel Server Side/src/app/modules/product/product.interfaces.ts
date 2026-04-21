@@ -34,6 +34,18 @@ export interface RamSpecs {
   speed: string;
   ddrType: "DDR3" | "DDR4" | "DDR5";
   latency?: string;
+
+  // extra
+  model?: string;
+  series?: string;
+  sku?: string;
+  formFactor?: string; // DIMM / SO-DIMM
+  voltage?: string;
+  ecc?: boolean;
+  buffered?: boolean;
+  kit?: string; // e.g. "2x8GB"
+  warranty?: string;
+  color?: string;
 }
 
 export interface CpuSpecs {
@@ -43,6 +55,17 @@ export interface CpuSpecs {
   baseClock: string;
   boostClock?: string;
   socket: string;
+
+  // extra
+  model?: string;
+  series?: string;
+  sku?: string;
+  tdp?: string;
+  cache?: string;
+  lithography?: string;
+  integratedGraphics?: string;
+  coolerIncluded?: boolean;
+  warranty?: string;
 }
 
 export interface GpuSpecs {
@@ -52,6 +75,19 @@ export interface GpuSpecs {
   baseClock?: string;
   boostClock?: string;
   rayTracing?: boolean;
+
+  // extra
+  model?: string;
+  series?: string;
+  sku?: string;
+  memoryType?: string;
+  busWidth?: string;
+  outputs?: string; // HDMI/DP etc.
+  powerConnectors?: string;
+  recommendedPsu?: string;
+  length?: string;
+  warranty?: string;
+  rgb?: boolean;
 }
 
 export interface StorageSpecs {
@@ -60,6 +96,17 @@ export interface StorageSpecs {
   interface: "SATA" | "NVMe" | "PCIe";
   readSpeed?: string;
   writeSpeed?: string;
+
+  // extra
+  model?: string;
+  series?: string;
+  sku?: string;
+  formFactor?: string; // 2.5", M.2
+  nandType?: string;
+  tbw?: string;
+  dramCache?: boolean;
+  rpm?: string; // HDD
+  warranty?: string;
 }
 
 export interface PsuSpecs {
@@ -67,6 +114,18 @@ export interface PsuSpecs {
   wattage: string;
   efficiency: "80+" | "80+ Bronze" | "80+ Gold" | "80+ Platinum";
   modular?: boolean;
+
+  // extra
+  model?: string;
+  series?: string;
+  sku?: string;
+  formFactor?: string; // ATX / SFX
+  fanSize?: string;
+  protections?: string; // OVP/OCP/OTP etc.
+  pcieConnectors?: string;
+  sataConnectors?: string;
+  warranty?: string;
+  color?: string;
 }
 
 export interface MotherboardSpecs {
@@ -75,6 +134,22 @@ export interface MotherboardSpecs {
   socket: string;
   ramSlots: number;
   maxRam: string;
+
+  // extra
+  model?: string;
+  series?: string;
+  sku?: string;
+  formFactor?: string; // ATX / mATX / ITX
+  ramType?: "DDR3" | "DDR4" | "DDR5";
+  maxRamSpeed?: string;
+  pcieSlots?: string;
+  m2Slots?: number;
+  sataPorts?: number;
+  wifi?: boolean;
+  bluetooth?: boolean;
+  lan?: string;
+  usbPorts?: string;
+  warranty?: string;
 }
 
 // =====================
@@ -100,6 +175,22 @@ export interface LaptopSpecs {
   display: string;
   gpu?: string;
   battery?: string;
+
+  // extra
+  model?: string;
+  series?: string;
+  sku?: string;
+  os?: string;
+  screenSize?: string;
+  resolution?: string;
+  refreshRate?: string;
+  webcam?: string;
+  keyboard?: string;
+  ports?: string;
+  weight?: string;
+  dimensions?: string;
+  color?: string;
+  warranty?: string;
 }
 
 export interface GadgetSpecs {
@@ -107,6 +198,19 @@ export interface GadgetSpecs {
   connectivity: string;
   batteryLife?: string;
   rgb?: boolean;
+
+  // extra
+  model?: string;
+  series?: string;
+  sku?: string;
+  wireless?: boolean;
+  range?: string;
+  charging?: string; // USB-C / Micro-USB / wireless
+  compatibleWith?: string;
+  weight?: string;
+  dimensions?: string;
+  color?: string;
+  warranty?: string;
 }
 
 // =====================

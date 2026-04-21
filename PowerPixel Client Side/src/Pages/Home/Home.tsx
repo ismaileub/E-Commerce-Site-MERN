@@ -6,7 +6,6 @@ import FeaturedCategory from "./Components/FeaturedCategory";
 import WorkProcess from "./Components/WorkProcess";
 import Testimonials from "./Components/Testimonials";
 import BrandingAndSEO from "./Components/BrandingAndSEO";
-import Footer from "./Components/Footer";
 
 const Home = () => {
   return (
@@ -28,8 +27,6 @@ const Home = () => {
 
         <BrandingAndSEO />
       </div>
-
-      <Footer />
     </div>
   );
 };

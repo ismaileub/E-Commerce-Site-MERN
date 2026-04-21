@@ -1,13 +1,25 @@
 import { FaShoppingCart } from "react-icons/fa";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import AuthForm from "../../AuthForm/AuthForm";
 import useAuth from "../../../Hooks/useAuth";
+import { useState } from "react";
 
 const NavBar = () => {
+  const navigate = useNavigate();
+  const [searchQuery, setSearchQuery] = useState("");
+
   const openAuthModal = () => {
     const modal = document.getElementById("my_modal_2");
     if (modal instanceof HTMLDialogElement) {
       modal.showModal();
+    }
+  };
+
+  const handleSearchSubmit = (e: React.FormEvent<HTMLFormElement>) => {
+    e.preventDefault();
+    if (searchQuery.trim()) {
+      navigate(`/search?search=${encodeURIComponent(searchQuery)}`);
+      setSearchQuery("");
     }
   };
 
@@ -74,7 +86,10 @@ const NavBar = () => {
 
           {/* Search Bar */}
           <div className="w-full">
-            <form className="w-auto xl:min-w-lg mx-auto">
+            <form
+              className="w-auto xl:min-w-lg mx-auto"
+              onSubmit={handleSearchSubmit}
+            >
               <label
                 htmlFor="default-search"
                 className="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white"
@@ -104,7 +119,8 @@ const NavBar = () => {
                   id="default-search"
                   className="block w-full outline-none p-4 ps-10 text-sm text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
                   placeholder="Search products..."
-                  required
+                  value={searchQuery}
+                  onChange={(e) => setSearchQuery(e.target.value)}
                 />
                 <button
                   type="submit"
