@@ -1,5 +1,9 @@
 # React + Vite
 
+## Credits
+
+- Favicon/icon attribution: https://www.flaticon.com/free-icons/ecommerce ("Ecommerce icons created by vectorspoint - Flaticon")
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:

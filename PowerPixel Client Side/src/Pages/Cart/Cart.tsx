@@ -3,16 +3,17 @@ import useCart from "../../Hooks/useCart";
 import useAuth from "../../Hooks/useAuth";
 
 const Cart = () => {
-  const { items, cartCount, removeFromCart, updateQuantity } = useCart();
+  const { items, cartCount, isLoading, removeFromCart, updateQuantity } =
+    useCart();
   const { user } = useAuth();
 
   if (!user) {
     return (
-      <div className="min-h-screen bg-[#f8fafc] px-4 sm:px-6 md:px-12 py-10">
+      <div className="min-h-screen bg-slate-50 px-4 sm:px-6 md:px-12 py-10">
         <div className="max-w-4xl mx-auto">
-          <div className="bg-white border border-slate-100 rounded-2xl p-6">
+          <div className="bg-white border border-slate-200 rounded-2xl p-6">
             <h1 className="text-2xl font-extrabold text-slate-900">Cart</h1>
-            <p className="mt-2 text-slate-600 font-semibold">
+            <p className="mt-2 text-slate-700 font-semibold">
               Please sign in to view your cart.
             </p>
             <Link
@@ -28,14 +29,14 @@ const Cart = () => {
   }
 
   return (
-    <div className="min-h-screen bg-[#f8fafc] px-4 sm:px-6 md:px-12 py-10">
+    <div className="min-h-screen bg-slate-50 px-4 sm:px-6 md:px-12 py-10">
       <div className="max-w-5xl mx-auto">
         <div className="flex items-end justify-between gap-4">
           <div>
             <h1 className="text-2xl md:text-3xl font-extrabold text-slate-900">
               Cart
             </h1>
-            <p className="mt-1 text-sm font-semibold text-slate-500">
+            <p className="mt-1 text-sm font-semibold text-slate-700">
               {cartCount} item(s)
             </p>
           </div>
@@ -47,8 +48,12 @@ const Cart = () => {
           </Link>
         </div>
 
-        {items.length === 0 ? (
-          <div className="mt-6 bg-white border border-slate-100 rounded-2xl p-6 text-slate-600 font-semibold">
+        {isLoading ? (
+          <div className="mt-6 bg-white border border-slate-200 rounded-2xl p-6 text-slate-700 font-semibold">
+            Loading your cart...
+          </div>
+        ) : items.length === 0 ? (
+          <div className="mt-6 bg-white border border-slate-200 rounded-2xl p-6 text-slate-700 font-semibold">
             Your cart is empty.
           </div>
         ) : (
@@ -60,9 +65,9 @@ const Cart = () => {
               return (
                 <div
                   key={item._id}
-                  className="bg-white border border-slate-100 rounded-2xl p-4 flex flex-col sm:flex-row gap-4 sm:items-center"
+                  className="bg-white border border-slate-200 rounded-2xl p-4 flex flex-col sm:flex-row gap-4 sm:items-center"
                 >
-                  <div className="w-full sm:w-28 h-20 rounded-xl bg-slate-50 border border-slate-100 overflow-hidden flex items-center justify-center">
+                  <div className="w-full sm:w-28 h-20 rounded-xl bg-slate-50 border border-slate-200 overflow-hidden flex items-center justify-center">
                     {product?.images ? (
                       <img
                         src={product.images}
@@ -81,7 +86,7 @@ const Cart = () => {
                     <div className="font-extrabold text-slate-900 truncate">
                       {product?.title || "Product"}
                     </div>
-                    <div className="mt-1 text-sm font-bold text-orange-600">
+                    <div className="mt-1 text-sm font-bold text-cyan-700">
                       ${product?.price?.toFixed(2) ?? "0.00"}
                     </div>
                   </div>

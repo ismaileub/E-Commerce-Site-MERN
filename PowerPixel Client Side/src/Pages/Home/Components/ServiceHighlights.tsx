@@ -32,10 +32,10 @@ const ServiceHighlights = () => {
             key={index}
             className="flex items-center gap-4 bg-white shadow-sm p-4 rounded-md"
           >
-            <div className="bg-red-600 rounded-full p-3">{item.icon}</div>
+            <div className="bg-cyan-600 rounded-full p-3">{item.icon}</div>
             <div>
               <h4 className="text-lg font-medium">{item.title}</h4>
-              <p className="text-sm text-gray-600">{item.subtitle}</p>
+              <p className="text-sm text-slate-700">{item.subtitle}</p>
             </div>
           </div>
         ))}

@@ -7,7 +7,7 @@ const testimonials = [
     content:
       "PowerPixel built me a beast of a machine. The performance is incredible, and the customer service was top-notch throughout the build process.",
     rating: 5,
-    avatarColor: "bg-orange-100 text-orange-600",
+    avatarColor: "bg-cyan-100 text-cyan-700",
   },
   {
     name: "Sarah Kabir",
@@ -15,7 +15,7 @@ const testimonials = [
     content:
       "Finding genuine PC components in Bangladesh can be tough, but PowerPixel is a name I trust. My 4K editing rig works flawlessly.",
     rating: 5,
-    avatarColor: "bg-blue-100 text-blue-600",
+    avatarColor: "bg-blue-100 text-blue-700",
   },
   {
     name: "Tanvir Hossain",
@@ -23,19 +23,19 @@ const testimonials = [
     content:
       "Price-to-performance ratio here is the best. I appreciate the transparency and the expert advice provided by their technical team.",
     rating: 5,
-    avatarColor: "bg-green-100 text-green-600",
+    avatarColor: "bg-slate-100 text-slate-700",
   },
 ];
 
 const Testimonials = () => {
   return (
-    <section className="py-20 bg-gray-50 border-y border-gray-100">
+    <section className="py-20 bg-slate-50 border-y border-slate-200">
       <div className="max-w-8xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-3xl font-bold text-gray-900 sm:text-4xl">
+          <h2 className="text-3xl font-bold text-slate-900 sm:text-4xl">
             Trusted by Builders & Gamers
           </h2>
-          <p className="mt-4 text-gray-500 max-w-2xl mx-auto text-lg">
+          <p className="mt-4 text-slate-700 max-w-2xl mx-auto text-lg">
             Don't just take our word for it—see what our community has to say
             about their PowerPixel experience.
           </p>
@@ -45,17 +45,17 @@ const Testimonials = () => {
           {testimonials.map((testimonial, index) => (
             <div
               key={index}
-              className="bg-white p-8 rounded-2xl shadow-sm border border-gray-100 hover:shadow-md transition-shadow relative"
+              className="bg-white p-8 rounded-2xl shadow-sm border border-slate-200 hover:shadow-md transition-shadow relative"
             >
-              <FaQuoteLeft className="text-orange-100 absolute top-6 right-8 text-4xl" />
+              <FaQuoteLeft className="text-cyan-100 absolute top-6 right-8 text-4xl" />
 
               <div className="flex gap-1 mb-4">
                 {[...Array(testimonial.rating)].map((_, i) => (
-                  <FaStar key={i} className="text-orange-400 text-sm" />
+                  <FaStar key={i} className="text-cyan-500 text-sm" />
                 ))}
               </div>
 
-              <p className="text-gray-600 mb-8 leading-relaxed italic">
+              <p className="text-gray-700 mb-8 leading-relaxed italic">
                 "{testimonial.content}"
               </p>
 
@@ -66,10 +66,10 @@ const Testimonials = () => {
                   {testimonial.name.charAt(0)}
                 </div>
                 <div>
-                  <h4 className="font-bold text-gray-900">
+                  <h4 className="font-bold text-slate-900">
                     {testimonial.name}
                   </h4>
-                  <p className="text-sm text-gray-500">{testimonial.role}</p>
+                  <p className="text-sm text-slate-700">{testimonial.role}</p>
                 </div>
               </div>
             </div>

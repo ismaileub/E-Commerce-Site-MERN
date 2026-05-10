@@ -225,13 +225,21 @@ const AuthForm = () => {
         {/* sign up form */}
         <div className="form-container sign-up-container">
           <form onSubmit={handleSubmitSignUp(onSubmitSignUp)}>
-            <h1>Create Account</h1>
+            <h1>Join PowerPixel</h1>
+            <p className="auth-subtitle">
+              Save builds, track orders, and unlock member-only deals.
+            </p>
             <div className="social-container">
-              <a href="#" className="social" onClick={handleGoogleSignIn}>
-                <FcGoogle className="text-3xl" />
-              </a>
+              <button
+                type="button"
+                className="social-btn"
+                onClick={handleGoogleSignIn}
+              >
+                <FcGoogle className="text-2xl" />
+                <span>Continue with Google</span>
+              </button>
             </div>
-            <span>or use your email for registration</span>
+            <span>Or sign up with your email</span>
             <input type="text" placeholder="Name" {...registerSignUp("name")} />
             {signUpErrors.name && (
               <h6 className="text-red-500">{signUpErrors.name.message}</h6>
@@ -253,19 +261,28 @@ const AuthForm = () => {
               <h6 className="text-red-500">{signUpErrors.password.message}</h6>
             )}
             <button className="cursor-pointer">Sign Up</button>
+            <p className="auth-helper">We never share your email.</p>
           </form>
         </div>
 
         {/* sign in section */}
         <div className="form-container sign-in-container">
           <form onSubmit={handleSubmitSignIn(onSubmitSignIn)}>
-            <h1>Sign in</h1>
+            <h1>Sign in to PowerPixel</h1>
+            <p className="auth-subtitle">
+              Access your saved builds, cart, and order history.
+            </p>
             <div className="social-container">
-              <a href="#" className="social" onClick={handleGoogleSignIn}>
-                <FcGoogle className="text-3xl" />
-              </a>
+              <button
+                type="button"
+                className="social-btn"
+                onClick={handleGoogleSignIn}
+              >
+                <FcGoogle className="text-2xl" />
+                <span>Continue with Google</span>
+              </button>
             </div>
-            <span>or use your account</span>
+            <span>Or use your PowerPixel email</span>
             <input
               type="email"
               placeholder="Email"
@@ -282,25 +299,24 @@ const AuthForm = () => {
             {signInErrors.password && (
               <h6 className="text-red-500">{signInErrors.password.message}</h6>
             )}
-            <a href="#">Forgot your password?</a>
+            <a href="#">Reset your PowerPixel password</a>
             <button className="cursor-pointer mt-3">Sign In</button>
+            <p className="auth-helper">We never share your email.</p>
           </form>
         </div>
         <div className="overlay-container">
           <div className="overlay">
             <div className="overlay-panel overlay-left">
-              <h1>Welcome Back!</h1>
-              <p>
-                To keep connected with us please login with your personal info
-              </p>
-              <button className="ghost cursor-pointer" id="signIn">
+              <h1>Welcome Back to PowerPixel</h1>
+              <p>Sign in to pick up your build and track your orders.</p>
+              <button className="cursor-pointer" id="signIn">
                 Sign In
               </button>
             </div>
             <div className="overlay-panel overlay-right">
-              <h1>Hello, Friend!</h1>
-              <p>Enter your personal details and start your journey with us</p>
-              <button className="ghost cursor-pointer" id="signUp">
+              <h1>New to PowerPixel?</h1>
+              <p>Create an account to save builds, wishlists, and deals.</p>
+              <button className="cursor-pointer" id="signUp">
                 Sign Up
               </button>
             </div>

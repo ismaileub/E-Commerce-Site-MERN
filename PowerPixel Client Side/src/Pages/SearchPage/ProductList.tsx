@@ -67,19 +67,19 @@ const ProductList: React.FC<ProductListProps> = ({ products }) => {
           return (
             <div
               key={product._id}
-              className="group relative bg-white border border-gray-100 rounded-2xl p-4 transition-all duration-300 hover:shadow-xl hover:-translate-y-1"
+              className="group relative bg-white border border-slate-200 rounded-2xl p-4 transition-all duration-300 hover:shadow-xl hover:-translate-y-1"
             >
               {/* Badge */}
               {badgeLabel && (
                 <div className="absolute top-3 left-3 z-10">
-                  <span className="inline-flex items-center px-2 py-0.5 rounded-full text-[10px] font-bold bg-orange-50 text-orange-600 uppercase tracking-wider border border-orange-100">
+                  <span className="inline-flex items-center px-2 py-0.5 rounded-full text-[10px] font-bold bg-cyan-50 text-cyan-700 uppercase tracking-wider border border-cyan-200">
                     {badgeLabel}
                   </span>
                 </div>
               )}
 
               {/* Image Placeholder / Image */}
-              <div className="relative aspect-[4/3] overflow-hidden rounded-xl bg-gray-50 flex items-center justify-center transition-colors group-hover:bg-gray-100 mb-4">
+              <div className="relative aspect-[4/3] overflow-hidden rounded-xl bg-slate-50 flex items-center justify-center transition-colors group-hover:bg-slate-100 mb-4">
                 {product.images ? (
                   <img
                     src={product.images}
@@ -87,7 +87,7 @@ const ProductList: React.FC<ProductListProps> = ({ products }) => {
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                   />
                 ) : (
-                  <div className="text-gray-200 transform transition-transform duration-500 group-hover:scale-110">
+                  <div className="text-slate-200 transform transition-transform duration-500 group-hover:scale-110">
                     <svg
                       className="w-14 h-14"
                       fill="none"
@@ -107,11 +107,11 @@ const ProductList: React.FC<ProductListProps> = ({ products }) => {
 
               <div className="space-y-2">
                 <div>
-                  <h3 className="text-base font-bold text-gray-900 group-hover:text-orange-600 transition-colors line-clamp-2">
+                  <h3 className="text-base font-bold text-slate-900 group-hover:text-cyan-700 transition-colors line-clamp-2">
                     {product.title}
                   </h3>
                   {subtitle && (
-                    <p className="mt-0.5 text-xs text-gray-500 line-clamp-1 leading-relaxed">
+                    <p className="mt-0.5 text-xs text-slate-600 line-clamp-1 leading-relaxed">
                       {subtitle}
                     </p>
                   )}
@@ -119,10 +119,10 @@ const ProductList: React.FC<ProductListProps> = ({ products }) => {
 
                 <div className="pt-1 flex items-center justify-between">
                   <div className="flex flex-col">
-                    <span className="text-[10px] text-gray-400 font-medium">
+                    <span className="text-[10px] text-slate-500 font-medium">
                       Price
                     </span>
-                    <span className="text-lg font-extrabold text-orange-600">
+                    <span className="text-lg font-extrabold text-cyan-700">
                       $
                       {product.price.toLocaleString(undefined, {
                         minimumFractionDigits: 2,
@@ -132,7 +132,7 @@ const ProductList: React.FC<ProductListProps> = ({ products }) => {
 
                   <Link
                     to={`/product/${product._id}`}
-                    className="p-2 rounded-lg bg-orange-50 text-orange-600 hover:bg-orange-600 hover:text-white transition-all duration-300"
+                    className="p-2 rounded-lg bg-cyan-50 text-cyan-700 hover:bg-cyan-700 hover:text-white transition-all duration-300"
                     aria-label={`View ${product.title}`}
                   >
                     <svg
@@ -157,8 +157,8 @@ const ProductList: React.FC<ProductListProps> = ({ products }) => {
                     className={
                       "p-2 rounded-lg transition-all duration-300 " +
                       (product.stock === 0
-                        ? "bg-slate-100 text-slate-400 cursor-not-allowed"
-                        : "bg-orange-600 text-white hover:bg-orange-700")
+                        ? "bg-slate-100 text-slate-500 cursor-not-allowed"
+                        : "bg-cyan-700 text-white hover:bg-cyan-800")
                     }
                     aria-label={`Add ${product.title} to cart`}
                     title={product.stock === 0 ? "Out of stock" : "Add to cart"}
@@ -182,7 +182,7 @@ const ProductList: React.FC<ProductListProps> = ({ products }) => {
 
               <Link
                 to={`/product/${product._id}`}
-                className="mt-4 block w-full py-2.5 px-4 rounded-xl text-xs font-bold text-orange-600 bg-orange-50 border border-orange-100 hover:bg-orange-600 hover:text-white hover:border-orange-600 transition-all duration-300 shadow-sm active:scale-95 text-center"
+                className="mt-4 block w-full py-2.5 px-4 rounded-xl text-xs font-bold text-cyan-700 bg-cyan-50 border border-cyan-200 hover:bg-cyan-700 hover:text-white hover:border-cyan-700 transition-all duration-300 shadow-sm active:scale-95 text-center"
               >
                 View Product
               </Link>

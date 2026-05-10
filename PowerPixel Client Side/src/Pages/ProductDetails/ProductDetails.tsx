@@ -126,12 +126,12 @@ const ProductDetails = () => {
   }, [axiosPublic, product?._id, specType]);
 
   return (
-    <div className="min-h-screen bg-[#f8fafc] px-4 sm:px-6 md:px-12 py-10">
+    <div className="min-h-screen bg-slate-50 px-4 sm:px-6 md:px-12 py-10">
       <div className="max-w-6xl mx-auto">
         <div className="mb-6 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
           <Link
             to={-1 as any}
-            className="inline-flex w-fit items-center gap-2 text-sm font-bold text-slate-600 hover:text-slate-900"
+            className="inline-flex w-fit items-center gap-2 text-sm font-bold text-slate-700 hover:text-slate-900"
           >
             <span className="text-lg">←</span> Back
           </Link>
@@ -142,10 +142,10 @@ const ProductDetails = () => {
             {error}
           </div>
         ) : product ? (
-          <div className="bg-white border border-slate-100 rounded-[28px] shadow-sm overflow-hidden">
+          <div className="bg-white border border-slate-200 rounded-[28px] shadow-sm overflow-hidden">
             <div className="grid grid-cols-1 lg:grid-cols-12">
               <div className="lg:col-span-5 p-6 md:p-8">
-                <div className="rounded-2xl bg-slate-50 border border-slate-100 overflow-hidden aspect-[4/3] flex items-center justify-center">
+                <div className="rounded-2xl bg-slate-50 border border-slate-200 overflow-hidden aspect-[4/3] flex items-center justify-center">
                   {product.images ? (
                     <img
                       src={product.images}
@@ -154,23 +154,23 @@ const ProductDetails = () => {
                       loading="lazy"
                     />
                   ) : (
-                    <div className="text-slate-300 font-black">No image</div>
+                    <div className="text-slate-400 font-black">No image</div>
                   )}
                 </div>
 
-                <div className="mt-4 rounded-2xl border border-slate-100 bg-white px-4 py-3">
-                  <div className="text-[10px] font-black uppercase tracking-widest text-slate-400">
+                <div className="mt-4 rounded-2xl border border-slate-200 bg-white px-4 py-3">
+                  <div className="text-[10px] font-black uppercase tracking-widest text-slate-600">
                     Product Info
                   </div>
                   <dl className="mt-2 grid grid-cols-2 gap-x-4 gap-y-2 text-sm">
                     <div>
-                      <dt className="text-slate-500 font-semibold">Brand</dt>
+                      <dt className="text-slate-600 font-semibold">Brand</dt>
                       <dd className="text-slate-900 font-bold break-words">
                         {product.brand}
                       </dd>
                     </div>
                     <div>
-                      <dt className="text-slate-500 font-semibold">Stock</dt>
+                      <dt className="text-slate-600 font-semibold">Stock</dt>
                       <dd className="text-slate-900 font-bold break-words">
                         {product.stock}
                       </dd>
@@ -179,10 +179,10 @@ const ProductDetails = () => {
                 </div>
               </div>
 
-              <div className="lg:col-span-7 p-6 md:p-8 border-t lg:border-t-0 lg:border-l border-slate-100">
+              <div className="lg:col-span-7 p-6 md:p-8 border-t lg:border-t-0 lg:border-l border-slate-200">
                 <div className="flex items-start justify-between gap-4">
                   <div className="flex flex-wrap items-center gap-2">
-                    <span className="px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-widest bg-blue-600 text-white">
+                    <span className="px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-widest bg-cyan-700 text-white">
                       $
                       {product.price.toLocaleString(undefined, {
                         minimumFractionDigits: 2,
@@ -191,8 +191,8 @@ const ProductDetails = () => {
                     <span
                       className={`px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-widest border ${
                         product.stock > 0
-                          ? "bg-emerald-50 text-emerald-700 border-emerald-100"
-                          : "bg-slate-50 text-slate-500 border-slate-100"
+                          ? "bg-emerald-50 text-emerald-700 border-emerald-200"
+                          : "bg-slate-50 text-slate-600 border-slate-200"
                       }`}
                     >
                       {product.stock > 0 ? "In Stock" : "Out of Stock"}
@@ -209,8 +209,8 @@ const ProductDetails = () => {
                     className={
                       "shrink-0 px-5 py-3 rounded-2xl text-sm font-extrabold transition-all active:scale-95 " +
                       (product.stock === 0
-                        ? "bg-slate-100 text-slate-400 cursor-not-allowed"
-                        : "bg-orange-600 text-white hover:bg-orange-700")
+                        ? "bg-slate-100 text-slate-500 cursor-not-allowed"
+                        : "bg-cyan-700 text-white hover:bg-cyan-800")
                     }
                   >
                     Add to cart
@@ -224,7 +224,7 @@ const ProductDetails = () => {
                 {specEntries.length > 0 ? (
                   <div className="mt-8">
                     <div className="flex items-end justify-between gap-3">
-                      <h2 className="text-sm font-black  tracking-widest text-slate-400">
+                      <h2 className="text-sm font-black tracking-widest text-slate-600">
                         Key Features
                       </h2>
                     </div>
@@ -233,9 +233,9 @@ const ProductDetails = () => {
                       {specEntries.map(([k, v]) => (
                         <div
                           key={k}
-                          className="rounded-2xl border border-slate-100 bg-white px-4 py-3"
+                          className="rounded-2xl border border-slate-200 bg-white px-4 py-3"
                         >
-                          <div className="text-[10px] font-black uppercase tracking-widest text-slate-400">
+                          <div className="text-[10px] font-black uppercase tracking-widest text-slate-600">
                             {formatSpecKey(k)}
                           </div>
                           <div className="mt-1 text-sm font-bold text-slate-800 break-words">
@@ -246,14 +246,14 @@ const ProductDetails = () => {
                     </div>
                   </div>
                 ) : (
-                  <div className="mt-8 rounded-2xl border border-slate-100 bg-slate-50 px-4 py-3 text-sm font-semibold text-slate-500">
+                  <div className="mt-8 rounded-2xl border border-slate-200 bg-slate-50 px-4 py-3 text-sm font-semibold text-slate-700">
                     No specs available for this product.
                   </div>
                 )}
               </div>
             </div>
 
-            <div className="border-t border-slate-100 p-6 md:p-8">
+            <div className="border-t border-slate-200 p-6 md:p-8">
               <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
                 <div className="lg:col-span-8">
                   {product.description ? (
@@ -269,7 +269,7 @@ const ProductDetails = () => {
                       </p>
                     </>
                   ) : (
-                    <div className="rounded-2xl border border-slate-100 bg-slate-50 p-5 text-slate-500 font-semibold">
+                    <div className="rounded-2xl border border-slate-200 bg-slate-50 p-5 text-slate-700 font-semibold">
                       No description available.
                     </div>
                   )}
@@ -277,11 +277,11 @@ const ProductDetails = () => {
 
                 <div className="lg:col-span-4">
                   <div className="flex items-end justify-between gap-3">
-                    <h2 className="text-sm font-black tracking-widest text-slate-400">
+                    <h2 className="text-sm font-black tracking-widest text-slate-600">
                       Similar Products
                     </h2>
                     {specType ? (
-                      <span className="text-xs uppercase font-semibold text-slate-400">
+                      <span className="text-xs uppercase font-semibold text-slate-600">
                         {specType}
                       </span>
                     ) : null}
@@ -297,10 +297,10 @@ const ProductDetails = () => {
                         <Link
                           key={p._id}
                           to={`/product/${p._id}`}
-                          className="group rounded-2xl border border-slate-100 bg-white p-3 hover:border-slate-200"
+                          className="group rounded-2xl border border-slate-200 bg-white p-3 hover:border-slate-300"
                         >
                           <div className="flex gap-3">
-                            <div className="h-16 w-16 shrink-0 rounded-xl overflow-hidden bg-slate-50 border border-slate-100">
+                            <div className="h-16 w-16 shrink-0 rounded-xl overflow-hidden bg-slate-50 border border-slate-200">
                               {p.images ? (
                                 <img
                                   src={p.images}
@@ -320,7 +320,7 @@ const ProductDetails = () => {
                                   {p.brand}
                                 </span>
                                 <span className="text-slate-300">•</span>
-                                <span className="text-xs font-black text-orange-600">
+                                <span className="text-xs font-black text-cyan-700">
                                   $
                                   {p.price.toLocaleString(undefined, {
                                     minimumFractionDigits: 2,
@@ -333,11 +333,11 @@ const ProductDetails = () => {
                       ))}
                     </div>
                   ) : specType ? (
-                    <div className="mt-3 rounded-2xl border border-slate-100 bg-slate-50 p-4 text-slate-500 text-sm font-semibold">
+                    <div className="mt-3 rounded-2xl border border-slate-200 bg-slate-50 p-4 text-slate-700 text-sm font-semibold">
                       No similar products found.
                     </div>
                   ) : (
-                    <div className="mt-3 rounded-2xl border border-slate-100 bg-slate-50 p-4 text-slate-500 text-sm font-semibold">
+                    <div className="mt-3 rounded-2xl border border-slate-200 bg-slate-50 p-4 text-slate-700 text-sm font-semibold">
                       No type found for this product.
                     </div>
                   )}
@@ -346,7 +346,7 @@ const ProductDetails = () => {
             </div>
           </div>
         ) : (
-          <div className="bg-white border border-slate-100 rounded-[28px] p-10 text-slate-500 font-semibold">
+          <div className="bg-white border border-slate-200 rounded-[28px] p-10 text-slate-700 font-semibold">
             Loading product details...
           </div>
         )}

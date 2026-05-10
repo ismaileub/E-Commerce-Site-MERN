@@ -36,7 +36,7 @@ const tabQuery: Record<
 
 const FeaturedCategory = () => {
   const [value, setValue] = React.useState(() => {
-    const fallbackIndex = Math.max(0, pcTabs.indexOf("Laptop Deals"));
+    const fallbackIndex = Math.max(0, pcTabs.indexOf("New Arrivals"));
     if (typeof window === "undefined") return fallbackIndex;
 
     const saved = window.sessionStorage.getItem(FEATURED_TAB_STORAGE_KEY);
@@ -107,17 +107,17 @@ const FeaturedCategory = () => {
     <div className="mt-16 w-full max-w-8xl mx-auto px-4 sm:px-6">
       <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 mb-10">
         <div className="text-left">
-          <h2 className="text-3xl font-bold text-gray-900 tracking-tight sm:text-4xl">
+          <h2 className="text-3xl font-bold text-slate-900 tracking-tight sm:text-4xl">
             Featured Categories
           </h2>
-          <p className="mt-2 text-gray-500 max-w-md">
+          <p className="mt-2 text-slate-700 max-w-md">
             Handpicked selections from our most popular categories built for
             performance and reliability.
           </p>
         </div>
 
         {/* Tab Header */}
-        <div className="flex flex-wrap gap-2 p-1 bg-gray-100 rounded-xl w-fit">
+        <div className="flex flex-wrap gap-2 p-1 bg-slate-100 rounded-xl w-fit">
           {pcTabs.map((tab, index) => {
             const isActive = value === index;
             return (
@@ -136,8 +136,8 @@ const FeaturedCategory = () => {
                 className={
                   "px-5 py-2.5 cursor-pointer text-sm font-semibold transition-all duration-200 rounded-lg whitespace-nowrap " +
                   (isActive
-                    ? "bg-white text-orange-500 shadow-sm ring-1 ring-black/5"
-                    : "text-gray-500 hover:text-gray-900")
+                    ? "bg-white text-cyan-700 shadow-sm ring-1 ring-cyan-200"
+                    : "text-slate-600 hover:text-slate-900")
                 }
               >
                 {tab}
@@ -153,13 +153,13 @@ const FeaturedCategory = () => {
           {error}
         </div>
       ) : loading ? (
-        <div className="bg-white border border-slate-100 rounded-2xl p-8 text-slate-500 font-semibold">
+        <div className="bg-white border border-slate-200 rounded-2xl p-8 text-slate-700 font-semibold">
           Loading products...
         </div>
       ) : products.length > 0 ? (
         <ProductList products={products} />
       ) : (
-        <div className="bg-white border border-slate-100 rounded-2xl p-8 text-slate-500 font-semibold">
+        <div className="bg-white border border-slate-200 rounded-2xl p-8 text-slate-700 font-semibold">
           No products found.
         </div>
       )}

@@ -39,7 +39,7 @@ const SortingOptions: React.FC<SortingOptionsProps> = ({
       <div className="flex flex-col sm:flex-row items-start sm:items-center gap-2 sm:gap-3 w-full">
         <label
           htmlFor="sort-field"
-          className="text-sm font-semibold text-gray-800 whitespace-nowrap"
+          className="text-sm font-semibold text-slate-900 whitespace-nowrap"
         >
           Sort By:
         </label>
@@ -47,7 +47,7 @@ const SortingOptions: React.FC<SortingOptionsProps> = ({
           id="sort-field"
           value={filters.sort}
           onChange={handleSortChange}
-          className="w-full sm:w-auto px-3 py-2 border-2 border-gray-300 rounded-lg bg-gray-50 appearance-none bg-no-repeat bg-right cursor-pointer focus:outline-none focus:border-blue-600 focus:bg-white transition-all"
+          className="w-full sm:w-auto px-3 py-2 border-2 border-slate-300 rounded-lg bg-slate-50 appearance-none bg-no-repeat bg-right cursor-pointer focus:outline-none focus:border-cyan-600 focus:bg-white transition-all"
           style={{
             backgroundImage: `url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e")`,
             backgroundPosition: "right 6px center",
@@ -65,7 +65,7 @@ const SortingOptions: React.FC<SortingOptionsProps> = ({
       <div className="flex flex-col sm:flex-row items-start sm:items-center gap-2 sm:gap-3 w-full">
         <label
           htmlFor="sort-order"
-          className="text-sm font-semibold text-gray-800 whitespace-nowrap"
+          className="text-sm font-semibold text-slate-900 whitespace-nowrap"
         >
           Order:
         </label>
@@ -73,7 +73,7 @@ const SortingOptions: React.FC<SortingOptionsProps> = ({
           id="sort-order"
           value={filters.order}
           onChange={handleOrderChange}
-          className="w-full sm:w-auto px-3 py-2 border-2 border-gray-300 rounded-lg bg-gray-50 appearance-none bg-no-repeat bg-right cursor-pointer focus:outline-none focus:border-blue-600 focus:bg-white transition-all"
+          className="w-full sm:w-auto px-3 py-2 border-2 border-slate-300 rounded-lg bg-slate-50 appearance-none bg-no-repeat bg-right cursor-pointer focus:outline-none focus:border-cyan-600 focus:bg-white transition-all"
           style={{
             backgroundImage: `url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e")`,
             backgroundPosition: "right 6px center",

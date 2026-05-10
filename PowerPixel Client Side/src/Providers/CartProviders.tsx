@@ -33,6 +33,7 @@ type CartResponse = {
 export type CartContextType = {
   items: CartItem[];
   cartCount: number;
+  isLoading: boolean;
   refreshCart: () => Promise<void>;
   addToCart: (productId: string, quantity?: number) => Promise<void>;
   removeFromCart: (itemId: string) => Promise<void>;
@@ -47,6 +48,7 @@ const CartProviders = ({ children }: { children: ReactNode }) => {
 
   const [items, setItems] = useState<CartItem[]>([]);
   const [cartCount, setCartCount] = useState(0);
+  const [isLoading, setIsLoading] = useState<boolean>(() => !!user);
 
   const openAuthModal = () => {
     const modal = document.getElementById("my_modal_2");
@@ -65,9 +67,11 @@ const CartProviders = ({ children }: { children: ReactNode }) => {
     if (!user) {
       setItems([]);
       setCartCount(0);
+      setIsLoading(false);
       return;
     }
 
+    setIsLoading(true);
     try {
       const res = await axiosPublic.get("/cart");
       applyCartResponse(res.data?.data as CartResponse);
@@ -75,6 +79,8 @@ const CartProviders = ({ children }: { children: ReactNode }) => {
       // If token expired or user not authorized, just reset.
       setItems([]);
       setCartCount(0);
+    } finally {
+      setIsLoading(false);
     }
   }, [applyCartResponse, axiosPublic, user]);
 
@@ -148,12 +154,21 @@ const CartProviders = ({ children }: { children: ReactNode }) => {
     () => ({
       items,
       cartCount,
+      isLoading,
       refreshCart,
       addToCart,
       removeFromCart,
       updateQuantity,
     }),
-    [addToCart, cartCount, items, refreshCart, removeFromCart, updateQuantity],
+    [
+      addToCart,
+      cartCount,
+      isLoading,
+      items,
+      refreshCart,
+      removeFromCart,
+      updateQuantity,
+    ],
   );
 
   return <CartContext.Provider value={value}>{children}</CartContext.Provider>;

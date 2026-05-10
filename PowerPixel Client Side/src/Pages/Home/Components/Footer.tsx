@@ -23,7 +23,7 @@ const Footer = () => {
                 PowerPixel
               </h2>
             </Link>
-            <p className="mt-3 text-sm text-gray-400 leading-6">
+            <p className="mt-3 text-sm text-gray-300 leading-6">
               Your trusted store for PC parts, accessories, and deals.
             </p>
 
@@ -31,28 +31,28 @@ const Footer = () => {
               <a
                 href="#"
                 aria-label="Facebook"
-                className="h-9 w-9 rounded-full bg-gray-800 flex items-center justify-center hover:bg-gray-700"
+                className="h-9 w-9 rounded-full bg-blue-600 text-white flex items-center justify-center hover:bg-blue-700 transition-colors"
               >
                 <FaFacebookF />
               </a>
               <a
                 href="#"
                 aria-label="Instagram"
-                className="h-9 w-9 rounded-full bg-gray-800 flex items-center justify-center hover:bg-gray-700"
+                className="h-9 w-9 rounded-full bg-pink-600 text-white flex items-center justify-center hover:bg-pink-700 transition-colors"
               >
                 <FaInstagram />
               </a>
               <a
                 href="#"
                 aria-label="Twitter"
-                className="h-9 w-9 rounded-full bg-gray-800 flex items-center justify-center hover:bg-gray-700"
+                className="h-9 w-9 rounded-full bg-sky-500 text-white flex items-center justify-center hover:bg-sky-600 transition-colors"
               >
                 <FaTwitter />
               </a>
               <a
                 href="#"
                 aria-label="YouTube"
-                className="h-9 w-9 rounded-full bg-gray-800 flex items-center justify-center hover:bg-gray-700"
+                className="h-9 w-9 rounded-full bg-red-600 text-white flex items-center justify-center hover:bg-red-700 transition-colors"
               >
                 <FaYoutube />
               </a>
